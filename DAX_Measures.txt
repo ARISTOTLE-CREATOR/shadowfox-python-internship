@@ -1,0 +1,23 @@
+# Power BI DAX Measures
+
+Total Employees = COUNTROWS('HR Employees')
+
+Attrition Count = CALCULATE(COUNTROWS('HR Employees'), 'HR Employees'[Attrition] = "Yes")
+
+Attrition Rate = DIVIDE([Attrition Count], [Total Employees], 0)
+
+Active Employees = CALCULATE(COUNTROWS('HR Employees'), 'HR Employees'[Attrition] = "No")
+
+Average Monthly Income = AVERAGE('HR Employees'[Monthly Income])
+
+Average Age = AVERAGE('HR Employees'[Age])
+
+Average Tenure = AVERAGE('HR Employees'[Years at Company])
+
+Overtime Employees = CALCULATE(COUNTROWS('HR Employees'), 'HR Employees'[Overtime] = "Yes")
+
+Overtime Rate = DIVIDE([Overtime Employees], [Total Employees], 0)
+
+Attrition Rate - Overtime = CALCULATE([Attrition Rate], 'HR Employees'[Overtime] = "Yes")
+
+Attrition Rate - No Overtime = CALCULATE([Attrition Rate], 'HR Employees'[Overtime] = "No")
