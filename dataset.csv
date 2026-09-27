@@ -1,0 +1,781 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Segment,Region,Acquisition Channel,Product,Category,Quantity,Unit Price,Discount %,Gross Sales,Discount Amount,Revenue,Cost,Profit
+ORD-50001,2025-07-20,CUST-0085,Customer 0085,Consumer,North,Referral,Security Plus,Software,3,195.11,0.0,585.33,0.0,585.33,225,360.33
+ORD-50002,2025-07-19,CUST-0173,Customer 0173,Consumer,West,Email,CRM Essentials,Software,2,129.71,0.0,259.42,0.0,259.42,102,157.42
+ORD-50003,2025-07-14,CUST-0107,Customer 0107,Consumer,West,Social Media,CRM Essentials,Software,1,129.71,0.03,129.71,3.89,125.82,51,74.82
+ORD-50004,2025-07-08,CUST-0012,Customer 0012,Small Business,East,Referral,CRM Essentials,Software,2,129.71,0.08,259.42,20.75,238.67,102,136.67
+ORD-50005,2025-07-20,CUST-0121,Customer 0121,Small Business,East,Social Media,Implementation Pack,Services,2,325.91,0.03,651.82,19.55,632.27,280,352.27
+ORD-50006,2025-07-27,CUST-0123,Customer 0123,Consumer,West,Paid Ads,Data Backup,Services,1,97.01,0.03,97.01,2.91,94.1,38,56.1
+ORD-50007,2025-07-01,CUST-0065,Customer 0065,Small Business,South,Email,Cloud Pro,Software,2,162.41,0.0,324.82,0.0,324.82,124,200.82
+ORD-50008,2025-07-15,CUST-0124,Customer 0124,Consumer,South,Email,Implementation Pack,Services,1,325.91,0.15,325.91,48.89,277.02,140,137.02
+ORD-50009,2025-07-24,CUST-0051,Customer 0051,Consumer,East,Referral,Implementation Pack,Services,1,325.91,0.15,325.91,48.89,277.02,140,137.02
+ORD-50010,2025-07-27,CUST-0103,Customer 0103,Small Business,North,Organic Search,Data Backup,Services,1,97.01,0.0,97.01,0.0,97.01,38,59.01
+ORD-50011,2025-07-22,CUST-0106,Customer 0106,Consumer,South,Referral,Analytics Suite,Software,2,249.61,0.1,499.22,49.92,449.3,192,257.3
+ORD-50012,2025-07-03,CUST-0131,Customer 0131,Consumer,Unknown,Email,Data Backup,Services,3,97.01,0.08,291.03,23.28,267.75,114,153.75
+ORD-50013,2025-07-11,CUST-0131,Customer 0131,Consumer,West,Email,Implementation Pack,Services,1,325.91,0.1,325.91,32.59,293.32,140,153.32
+ORD-50014,2025-07-28,CUST-0093,Customer 0093,Consumer,South,Paid Ads,CRM Essentials,Software,1,129.71,0.08,129.71,10.38,119.33,51,68.33
+ORD-50015,2025-07-17,CUST-0045,Customer 0045,Consumer,East,Organic Search,Data Backup,Services,3,97.01,0.15,291.03,43.65,247.38,114,133.38
+ORD-50016,2025-07-07,CUST-0134,Customer 0134,Consumer,East,Referral,Training Package,Services,2,216.91,0.08,433.82,34.71,399.11,176,223.11
+ORD-50017,2025-07-17,CUST-0008,Customer 0008,Enterprise,East,Email,Support Premium,Services,2,140.61,0.05,281.22,14.06,267.16,108,159.16
+ORD-50018,2025-07-28,CUST-0135,Customer 0135,Consumer,South,Social Media,CRM Essentials,Software,1,129.71,0.15,129.71,19.46,110.25,51,59.25
+ORD-50019,2025-07-27,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Support Premium,Services,1,140.61,0.1,140.61,14.06,126.55,54,72.55
+ORD-50020,2025-07-18,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Implementation Pack,Services,4,325.91,0.05,1303.64,65.18,1238.46,560,678.46
+ORD-50021,2025-07-23,CUST-0158,Customer 0158,Consumer,East,Referral,Security Plus,Software,1,195.11,0.08,195.11,15.61,179.5,75,104.5
+ORD-50022,2025-07-26,CUST-0040,Customer 0040,Small Business,South,Organic Search,CRM Essentials,Software,1,129.71,0.15,129.71,19.46,110.25,51,59.25
+ORD-50023,2025-07-02,CUST-0169,Customer 0169,Consumer,West,Referral,Cloud Pro,Software,2,162.41,0.15,324.82,48.72,276.1,124,152.1
+ORD-50024,2025-07-05,CUST-0072,Customer 0072,Small Business,East,Organic Search,Data Backup,Services,4,97.01,0.0,388.04,0.0,388.04,152,236.04
+ORD-50025,2025-07-06,CUST-0069,Customer 0069,Enterprise,West,Referral,Implementation Pack,Services,2,325.91,0.0,651.82,0.0,651.82,280,371.82
+ORD-50026,2025-07-05,CUST-0178,Customer 0178,Consumer,East,Organic Search,Cloud Pro,Software,2,162.41,0.1,324.82,32.48,292.34,124,168.34
+ORD-50027,2025-07-10,CUST-0106,Customer 0106,Consumer,South,Referral,Support Premium,Services,3,140.61,0.0,421.83,0.0,421.83,162,259.83
+ORD-50028,2025-07-15,CUST-0057,Customer 0057,Consumer,West,Paid Ads,Implementation Pack,Services,3,325.91,0.0,977.73,0.0,977.73,420,557.73
+ORD-50029,2025-07-05,CUST-0175,Customer 0175,Consumer,South,Organic Search,Training Package,Services,1,216.91,0.03,216.91,6.51,210.4,88,122.4
+ORD-50030,2025-07-04,CUST-0131,Customer 0131,Consumer,West,Email,Cloud Pro,Software,1,162.41,0.0,162.41,0.0,162.41,62,100.41
+ORD-50031,2025-07-06,CUST-0091,Customer 0091,Consumer,East,Referral,Data Backup,Services,1,97.01,0.0,97.01,0.0,97.01,38,59.01
+ORD-50032,2025-07-14,CUST-0129,Customer 0129,Small Business,North,Organic Search,Security Plus,Software,3,195.11,0.0,585.33,0.0,585.33,225,360.33
+ORD-50033,2025-07-06,CUST-0170,Customer 0170,Small Business,North,Email,Training Package,Services,1,216.91,0.15,216.91,32.54,184.37,88,96.37
+ORD-50034,2025-07-07,CUST-0062,Customer 0062,Small Business,North,Social Media,Security Plus,Software,3,195.11,0.05,585.33,29.27,556.06,225,331.06
+ORD-50035,2025-07-14,CUST-0096,Customer 0096,Consumer,East,Organic Search,CRM Essentials,Software,1,129.71,0.15,129.71,19.46,110.25,51,59.25
+ORD-50036,2025-07-07,CUST-0109,Customer 0109,Consumer,North,Paid Ads,Support Premium,Services,2,140.61,0.1,281.22,28.12,253.1,108,145.1
+ORD-50037,2025-07-20,CUST-0080,Customer 0080,Consumer,East,Paid Ads,Support Premium,Services,3,140.61,0.08,421.83,33.75,388.08,162,226.08
+ORD-50038,2025-07-24,CUST-0124,Customer 0124,Consumer,South,Email,Analytics Suite,Software,2,249.61,0.0,499.22,0.0,499.22,192,307.22
+ORD-50039,2025-07-23,CUST-0051,Customer 0051,Consumer,East,Referral,Analytics Suite,Software,2,249.61,0.03,499.22,14.98,484.24,192,292.24
+ORD-50040,2025-07-21,CUST-0174,Customer 0174,Enterprise,West,Referral,CRM Essentials,Software,2,129.71,0.0,259.42,0.0,259.42,102,157.42
+ORD-50041,2025-07-01,CUST-0111,Customer 0111,Small Business,South,Organic Search,Security Plus,Software,3,195.11,0.05,585.33,29.27,556.06,225,331.06
+ORD-50042,2025-07-26,CUST-0141,Customer 0141,Consumer,East,Paid Ads,CRM Essentials,Software,2,129.71,0.1,259.42,25.94,233.48,102,131.48
+ORD-50043,2025-07-01,CUST-0069,Customer 0069,Enterprise,West,Referral,Data Backup,Services,5,97.01,0.05,485.05,24.25,460.8,190,270.8
+ORD-50044,2025-07-12,CUST-0123,Customer 0123,Consumer,West,Paid Ads,Support Premium,Services,2,140.61,0.15,281.22,42.18,239.04,108,131.04
+ORD-50045,2025-07-18,CUST-0125,Customer 0125,Consumer,North,Referral,CRM Essentials,Software,1,129.71,0.0,129.71,0.0,129.71,51,78.71
+ORD-50046,2025-07-21,CUST-0057,Customer 0057,Small Business,West,Paid Ads,Implementation Pack,Services,2,325.91,0.08,651.82,52.15,599.67,280,319.67
+ORD-50047,2025-07-18,CUST-0152,Customer 0152,Consumer,North,Organic Search,Cloud Pro,Software,3,162.41,0.1,487.23,48.72,438.51,186,252.51
+ORD-50048,2025-07-15,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Data Backup,Services,4,97.01,0.0,388.04,0.0,388.04,152,236.04
+ORD-50049,2025-07-17,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Implementation Pack,Services,2,325.91,0.15,977.73,146.66,831.07,420,411.07
+ORD-50050,2025-07-02,CUST-0136,Customer 0136,Enterprise,East,Paid Ads,Analytics Suite,Software,5,249.61,0.03,1248.05,37.44,1210.61,480,730.61
+ORD-50051,2025-07-19,CUST-0021,Customer 0021,Consumer,South,Email,Cloud Pro,Software,1,162.41,0.05,162.41,8.12,154.29,62,92.29
+ORD-50052,2025-07-19,CUST-0028,Customer 0028,Enterprise,West,Referral,Training Package,Services,5,216.91,0.15,1084.55,162.68,921.87,440,481.87
+ORD-50053,2025-07-11,CUST-0117,Customer 0117,Small Business,North,Social Media,Support Premium,Services,2,140.61,0.0,281.22,0.0,281.22,108,173.22
+ORD-50054,2025-07-06,CUST-0035,Customer 0035,Small Business,West,Organic Search,Cloud Pro,Software,1,162.41,0.0,162.41,0.0,162.41,62,100.41
+ORD-50055,2025-07-24,CUST-0137,Customer 0137,Consumer,South,Email,Data Backup,Services,1,97.01,0.0,97.01,0.0,97.01,38,59.01
+ORD-50056,2025-07-11,CUST-0019,Customer 0019,Consumer,South,Organic Search,Analytics Suite,Software,2,249.61,0.15,499.22,74.88,424.34,192,232.34
+ORD-50057,2025-07-11,CUST-0040,Customer 0040,Small Business,South,Organic Search,Data Backup,Services,4,97.01,0.0,388.04,0.0,388.04,152,236.04
+ORD-50058,2025-07-28,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Security Plus,Software,3,195.11,0.08,585.33,46.83,538.5,225,313.5
+ORD-50059,2025-07-20,CUST-0081,Customer 0081,Consumer,East,Organic Search,Training Package,Services,1,216.91,0.0,216.91,0.0,216.91,88,128.91
+ORD-50060,2025-07-19,CUST-0048,Customer 0048,Consumer,South,Paid Ads,Support Premium,Services,1,140.61,0.0,140.61,0.0,140.61,54,86.61
+ORD-50061,2025-07-16,CUST-0122,Customer 0122,Consumer,West,Email,Training Package,Services,1,216.91,0.0,216.91,0.0,216.91,88,128.91
+ORD-50062,2025-07-15,CUST-0056,Customer 0056,Small Business,South,Email,Training Package,Services,3,216.91,0.08,650.73,52.06,598.67,264,334.67
+ORD-50063,2025-07-11,CUST-0036,Customer 0036,Small Business,West,Referral,Data Backup,Services,1,97.01,0.08,97.01,7.76,89.25,38,51.25
+ORD-50064,2025-07-01,CUST-0069,Customer 0069,Enterprise,West,Referral,Training Package,Services,5,216.91,0.08,1084.55,86.76,997.79,440,557.79
+ORD-50065,2025-07-19,CUST-0091,Customer 0091,Consumer,East,Referral,CRM Essentials,Software,3,129.71,0.0,389.13,0.0,389.13,153,236.13
+ORD-50066,2025-08-06,CUST-0095,Customer 0095,Enterprise,East,Email,Security Plus,Software,3,197.79,0.08,593.37,47.47,545.9,225,320.9
+ORD-50067,2025-08-04,CUST-0118,Customer 0118,Consumer,South,Paid Ads,Training Package,Services,2,219.9,0.15,439.8,65.97,373.83,176,197.83
+ORD-50068,2025-08-07,CUST-0107,Customer 0107,Consumer,West,Social Media,Training Package,Services,3,219.9,0.0,659.7,0.0,659.7,264,395.7
+ORD-50069,2025-08-17,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Data Backup,Services,5,98.34,0.0,491.7,0.0,491.7,190,301.7
+ORD-50070,2025-08-02,CUST-0069,Customer 0069,Enterprise,West,Referral,Implementation Pack,Services,1,330.39,0.0,330.39,0.0,330.39,140,190.39
+ORD-50071,2025-08-22,CUST-0056,Customer 0056,Small Business,South,Email,Analytics Suite,Software,3,253.04,0.08,759.12,60.73,698.39,288,410.39
+ORD-50072,2025-08-15,CUST-0010,Customer 0010,Consumer,East,Referral,Implementation Pack,Services,3,330.39,0.1,991.17,99.12,892.05,420,472.05
+ORD-50073,2025-08-07,CUST-0132,Customer 0132,Consumer,South,Paid Ads,Cloud Pro,Software,3,164.65,0.15,493.95,74.09,419.86,186,233.86
+ORD-50074,2025-08-06,CUST-0167,Customer 0167,Consumer,East,Email,Support Premium,Services,1,142.54,0.0,142.54,0.0,142.54,54,88.54
+ORD-50075,2025-08-10,CUST-0167,Customer 0167,Consumer,East,Email,Analytics Suite,Software,1,253.04,0.0,253.04,0.0,253.04,96,157.04
+ORD-50076,2025-08-03,CUST-0159,Customer 0159,Consumer,West,Social Media,Cloud Pro,Software,1,164.65,0.03,164.65,4.94,159.71,62,97.71
+ORD-50077,2025-08-19,CUST-0180,Customer 0180,Small Business,North,Social Media,CRM Essentials,Software,2,131.5,0.08,263.0,21.04,241.96,102,139.96
+ORD-50078,2025-08-18,CUST-0139,Customer 0139,Small Business,West,Referral,Security Plus,Software,2,197.79,0.0,395.58,0.0,395.58,150,245.58
+ORD-50079,2025-08-03,CUST-0091,Customer 0091,Consumer,East,Referral,Security Plus,Software,1,197.79,0.05,197.79,9.89,187.9,75,112.9
+ORD-50080,2025-08-18,CUST-0063,Customer 0063,Small Business,South,Paid Ads,Cloud Pro,Software,1,164.65,0.05,164.65,8.23,156.42,62,94.42
+ORD-50081,2025-08-06,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Support Premium,Services,3,142.54,0.0,427.62,0.0,427.62,162,265.62
+ORD-50082,2025-08-25,CUST-0061,Customer 0061,Enterprise,South,Email,CRM Essentials,Software,3,131.5,0.08,394.5,31.56,362.94,153,209.94
+ORD-50083,2025-08-21,CUST-0087,Customer 0087,Consumer,North,Email,Training Package,Services,1,219.9,0.1,219.9,21.99,197.91,88,109.91
+ORD-50084,2025-08-03,CUST-0044,Customer 0044,Consumer,West,Paid Ads,Support Premium,Services,1,142.54,0.03,142.54,4.28,138.26,54,84.26
+ORD-50085,2025-08-28,CUST-0034,Customer 0034,Enterprise,South,Email,Security Plus,Software,5,197.79,0.05,988.95,49.45,939.5,375,564.5
+ORD-50086,2025-08-06,CUST-0178,Customer 0178,Consumer,East,Organic Search,CRM Essentials,Software,2,131.5,0.03,263.0,7.89,255.11,102,153.11
+ORD-50087,2025-08-13,CUST-0127,Customer 0127,Small Business,North,Referral,Analytics Suite,Software,1,253.04,0.15,253.04,37.96,215.08,96,119.08
+ORD-50088,2025-08-19,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Support Premium,Services,2,142.54,0.1,285.08,28.51,256.57,108,148.57
+ORD-50089,2025-08-19,CUST-0087,Customer 0087,Consumer,North,Email,Implementation Pack,Services,1,330.39,0.1,330.39,33.04,297.35,140,157.35
+ORD-50090,2025-08-08,CUST-0006,Customer 0006,Consumer,West,Referral,Data Backup,Services,1,98.34,0.05,98.34,4.92,93.42,38,55.42
+ORD-50091,2025-08-01,CUST-0078,Customer 0078,Small Business,East,Paid Ads,CRM Essentials,Software,2,131.5,0.08,263.0,21.04,241.96,102,139.96
+ORD-50092,2025-08-23,CUST-0008,Customer 0008,Enterprise,East,Email,Implementation Pack,Services,8,330.39,0.0,2643.12,0.0,2643.12,1120,1523.12
+ORD-50093,2025-08-25,CUST-0118,Customer 0118,Consumer,South,Paid Ads,Analytics Suite,Software,1,253.04,0.05,253.04,12.65,240.39,96,144.39
+ORD-50094,2025-08-01,CUST-0041,Customer 0041,Small Business,East,Referral,Support Premium,Services,1,142.54,0.0,142.54,0.0,142.54,54,88.54
+ORD-50095,2025-08-01,CUST-0157,Customer 0157,Consumer,South,Email,Data Backup,Services,1,98.34,0.03,98.34,2.95,95.39,38,57.39
+ORD-50096,2025-08-21,CUST-0114,Customer 0114,Enterprise,North,Social Media,Data Backup,Services,8,98.34,0.05,786.72,39.34,747.38,304,443.38
+ORD-50097,2025-08-04,CUST-0161,Customer 0161,Consumer,North,Referral,Cloud Pro,Software,1,164.65,0.0,164.65,0.0,164.65,62,102.65
+ORD-50098,2025-08-28,CUST-0059,Customer 0059,Consumer,South,Social Media,Implementation Pack,Services,1,330.39,0.0,330.39,0.0,330.39,140,190.39
+ORD-50099,2025-08-24,CUST-0099,Customer 0099,Small Business,North,Referral,Data Backup,Services,2,98.34,0.05,196.68,9.83,186.85,76,110.85
+ORD-50100,2025-08-14,CUST-0077,Customer 0077,Small Business,South,Organic Search,Data Backup,Services,2,98.34,0.08,196.68,15.73,180.95,76,104.95
+ORD-50101,2025-08-06,CUST-0121,Customer 0121,Small Business,East,Social Media,Data Backup,Services,3,98.34,0.15,295.02,44.25,250.77,114,136.77
+ORD-50102,2025-08-10,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Cloud Pro,Software,1,164.65,0.1,164.65,16.46,148.19,62,86.19
+ORD-50103,2025-08-11,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Security Plus,Software,2,197.79,0.1,395.58,39.56,356.02,150,206.02
+ORD-50104,2025-08-20,CUST-0043,Customer 0043,Small Business,West,Social Media,Analytics Suite,Software,1,253.04,0.0,253.04,0.0,253.04,96,157.04
+ORD-50105,2025-08-10,CUST-0086,Customer 0086,Enterprise,South,Referral,Training Package,Services,2,219.9,0.08,439.8,35.18,404.62,176,228.62
+ORD-50106,2025-08-28,CUST-0139,Customer 0139,Small Business,West,Referral,Training Package,Services,3,219.9,0.03,659.7,19.79,639.91,264,375.91
+ORD-50107,2025-08-02,CUST-0116,Customer 0116,Small Business,East,Organic Search,Security Plus,Software,1,197.79,0.03,197.79,5.93,191.86,75,116.86
+ORD-50108,2025-08-14,CUST-0160,Customer 0160,Consumer,South,Email,Security Plus,Software,1,197.79,0.15,197.79,29.67,168.12,75,93.12
+ORD-50109,2025-08-21,CUST-0172,Customer 0172,Small Business,East,Social Media,CRM Essentials,Software,2,131.5,0.05,263.0,13.15,249.85,102,147.85
+ORD-50110,2025-08-02,CUST-0128,Customer 0128,Consumer,East,Social Media,Cloud Pro,Software,2,164.65,0.1,329.3,32.93,296.37,124,172.37
+ORD-50111,2025-08-14,CUST-0153,Customer 0153,Small Business,East,Referral,Implementation Pack,Services,2,330.39,0.15,660.78,99.12,561.66,280,281.66
+ORD-50112,2025-08-20,CUST-0058,Customer 0058,Consumer,North,Paid Ads,Data Backup,Services,2,98.34,0.15,196.68,29.5,167.18,76,91.18
+ORD-50113,2025-08-25,CUST-0130,Customer 0130,Consumer,East,Paid Ads,Implementation Pack,Services,2,330.39,0.03,660.78,19.82,640.96,280,360.96
+ORD-50114,2025-08-14,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Security Plus,Software,1,197.79,0.08,197.79,15.82,181.97,75,106.97
+ORD-50115,2025-08-08,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Implementation Pack,Services,3,330.39,0.15,991.17,148.68,842.49,420,422.49
+ORD-50116,2025-08-28,CUST-0144,Customer 0144,Consumer,East,Social Media,Training Package,Services,1,219.9,0.1,219.9,21.99,197.91,88,109.91
+ORD-50117,2025-08-16,CUST-0008,Customer 0008,Enterprise,East,Email,Analytics Suite,Software,2,253.04,0.0,506.08,0.0,506.08,192,314.08
+ORD-50118,2025-08-06,CUST-0159,Customer 0159,Consumer,West,Social Media,Training Package,Services,1,219.9,0.15,219.9,32.98,186.92,88,98.92
+ORD-50119,2025-08-03,CUST-0112,Customer 0112,Consumer,West,Email,Security Plus,Software,1,197.79,0.08,197.79,15.82,181.97,75,106.97
+ORD-50120,2025-08-15,CUST-0026,Customer 0026,Consumer,East,Referral,Analytics Suite,Software,1,253.04,0.0,253.04,0.0,253.04,96,157.04
+ORD-50121,2025-08-04,CUST-0154,Customer 0154,Small Business,South,Social Media,Implementation Pack,Services,2,330.39,0.1,660.78,66.08,594.7,280,314.7
+ORD-50122,2025-08-04,CUST-0107,Customer 0107,Consumer,West,Social Media,Security Plus,Software,1,197.79,0.0,197.79,0.0,197.79,75,122.79
+ORD-50123,2025-08-21,CUST-0017,Customer 0017,Small Business,West,Paid Ads,Implementation Pack,Services,3,330.39,0.05,991.17,49.56,941.61,420,521.61
+ORD-50124,2025-08-27,CUST-0106,Customer 0106,Consumer,South,Referral,Analytics Suite,Software,2,253.04,0.15,506.08,75.91,430.17,192,238.17
+ORD-50125,2025-08-04,CUST-0049,Customer 0049,Small Business,West,Organic Search,Support Premium,Services,2,142.54,0.0,285.08,0.0,285.08,108,177.08
+ORD-50126,2025-08-15,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Implementation Pack,Services,1,330.39,0.05,330.39,16.52,313.87,140,173.87
+ORD-50127,2025-08-03,CUST-0026,Customer 0026,Consumer,East,Referral,Training Package,Services,2,219.9,0.0,439.8,0.0,439.8,176,263.8
+ORD-50128,2025-08-15,CUST-0006,Customer 0006,Consumer,West,Referral,Support Premium,Services,1,142.54,0.0,142.54,0.0,142.54,54,88.54
+ORD-50129,2025-08-24,CUST-0128,Customer 0128,Consumer,East,Social Media,Cloud Pro,Software,1,164.65,0.03,164.65,4.94,159.71,62,97.71
+ORD-50130,2025-08-21,CUST-0026,Customer 0026,Consumer,East,Referral,Cloud Pro,Software,1,164.65,0.05,164.65,8.23,156.42,62,94.42
+ORD-50131,2025-09-08,CUST-0018,Customer 0018,Consumer,North,Paid Ads,Data Backup,Services,2,99.68,0.08,199.36,15.95,183.41,76,107.41
+ORD-50132,2025-09-01,CUST-0109,Customer 0109,Consumer,North,Paid Ads,Analytics Suite,Software,1,256.48,0.0,256.48,0.0,256.48,96,160.48
+ORD-50133,2025-09-14,CUST-0037,Customer 0037,Consumer,West,Social Media,Data Backup,Services,1,99.68,0.15,99.68,14.95,84.73,38,46.73
+ORD-50134,2025-09-03,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Security Plus,Software,1,200.48,0.15,200.48,30.07,170.41,75,95.41
+ORD-50135,2025-09-09,CUST-0106,Customer 0106,Consumer,South,Referral,Analytics Suite,Software,2,256.48,0.08,512.96,41.04,471.92,192,279.92
+ORD-50136,2025-09-19,CUST-0082,Customer 0082,Enterprise,South,Organic Search,Training Package,Services,5,222.88,0.15,1114.4,167.16,947.24,440,507.24
+ORD-50137,2025-09-17,CUST-0080,Customer 0080,Consumer,East,Paid Ads,Security Plus,Software,2,200.48,0.08,400.96,32.08,368.88,150,218.88
+ORD-50138,2025-09-20,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Training Package,Services,2,222.88,0.08,445.76,35.66,410.1,176,234.1
+ORD-50139,2025-09-28,CUST-0065,Customer 0065,Small Business,South,Email,Support Premium,Services,2,144.48,0.1,288.96,28.9,260.06,108,152.06
+ORD-50140,2025-09-24,CUST-0067,Customer 0067,Consumer,South,Referral,Security Plus,Software,2,200.48,0.15,400.96,60.14,340.82,150,190.82
+ORD-50141,2025-09-17,CUST-0152,Customer 0152,Consumer,North,Organic Search,Support Premium,Services,1,144.48,0.15,144.48,21.67,122.81,54,68.81
+ORD-50142,2025-09-20,CUST-0080,Customer 0080,Consumer,East,Paid Ads,Data Backup,Services,1,99.68,0.15,99.68,14.95,84.73,38,46.73
+ORD-50143,2025-09-20,CUST-0064,Customer 0064,Enterprise,South,Social Media,Cloud Pro,Software,8,166.88,0.08,1335.04,106.8,1228.24,496,732.24
+ORD-50144,2025-09-04,CUST-0087,Customer 0087,Consumer,North,Email,Implementation Pack,Services,2,334.88,0.1,669.76,66.98,602.78,280,322.78
+ORD-50145,2025-09-20,CUST-0170,Customer 0170,Small Business,North,Email,Implementation Pack,Services,2,334.88,0.05,669.76,33.49,636.27,280,356.27
+ORD-50146,2025-09-28,CUST-0119,Customer 0119,Enterprise,West,Referral,Training Package,Services,5,222.88,0.03,1114.4,33.43,1080.97,440,640.97
+ORD-50147,2025-09-13,CUST-0111,Customer 0111,Small Business,South,Organic Search,Support Premium,Services,2,144.48,0.08,288.96,23.12,265.84,108,157.84
+ORD-50148,2025-09-24,CUST-0092,Customer 0092,Small Business,North,Email,Cloud Pro,Software,3,166.88,0.05,500.64,25.03,475.61,186,289.61
+ORD-50149,2025-09-12,CUST-0090,Customer 0090,Consumer,East,Organic Search,Data Backup,Services,2,99.68,0.0,199.36,0.0,199.36,76,123.36
+ORD-50150,2025-09-28,CUST-0106,Customer 0106,Consumer,South,Referral,Support Premium,Services,1,144.48,0.0,144.48,0.0,144.48,54,90.48
+ORD-50151,2025-09-14,CUST-0076,Customer 0076,Consumer,South,Referral,Cloud Pro,Software,1,166.88,0.03,166.88,5.01,161.87,62,99.87
+ORD-50152,2025-09-23,CUST-0067,Customer 0067,Consumer,South,Referral,Training Package,Services,1,222.88,0.15,222.88,33.43,189.45,88,101.45
+ORD-50153,2025-09-03,CUST-0066,Customer 0066,Consumer,West,Organic Search,Cloud Pro,Software,1,166.88,0.0,166.88,0.0,166.88,62,104.88
+ORD-50154,2025-09-28,CUST-0059,Customer 0059,Consumer,South,Social Media,CRM Essentials,Software,1,133.28,0.03,133.28,4.0,129.28,51,78.28
+ORD-50155,2025-09-18,CUST-0159,Customer 0159,Consumer,West,Social Media,Support Premium,Services,1,144.48,0.08,144.48,11.56,132.92,54,78.92
+ORD-50156,2025-09-28,CUST-0133,Customer 0133,Consumer,South,Email,Cloud Pro,Software,1,166.88,0.0,166.88,0.0,166.88,62,104.88
+ORD-50157,2025-09-04,CUST-0108,Customer 0108,Small Business,South,Social Media,Security Plus,Software,1,200.48,0.0,200.48,0.0,200.48,75,125.48
+ORD-50158,2025-09-27,CUST-0019,Customer 0019,Consumer,South,Organic Search,Training Package,Services,1,222.88,0.05,222.88,11.14,211.74,88,123.74
+ORD-50159,2025-09-10,CUST-0144,Customer 0144,Consumer,East,Social Media,Cloud Pro,Software,2,166.88,0.15,333.76,50.06,283.7,124,159.7
+ORD-50160,2025-09-26,CUST-0105,Customer 0105,Small Business,East,Organic Search,Implementation Pack,Services,2,334.88,0.15,669.76,100.46,569.3,280,289.3
+ORD-50161,2025-09-10,CUST-0113,Customer 0113,Consumer,East,Social Media,Security Plus,Software,3,200.48,0.05,601.44,30.07,571.37,225,346.37
+ORD-50162,2025-09-06,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Data Backup,Services,2,99.68,0.08,199.36,15.95,183.41,76,107.41
+ORD-50163,2025-09-15,CUST-0156,Customer 0156,Enterprise,West,Email,Training Package,Services,5,222.88,0.0,1114.4,0.0,1114.4,440,674.4
+ORD-50164,2025-09-21,CUST-0147,Customer 0147,Consumer,North,Email,Training Package,Services,2,222.88,0.05,445.76,22.29,423.47,176,247.47
+ORD-50165,2025-09-25,CUST-0163,Customer 0163,Consumer,East,Social Media,CRM Essentials,Software,2,133.28,0.03,266.56,8.0,258.56,102,156.56
+ORD-50166,2025-09-24,CUST-0025,Customer 0025,Small Business,West,Email,CRM Essentials,Software,2,133.28,0.03,266.56,8.0,258.56,102,156.56
+ORD-50167,2025-09-25,CUST-0119,Customer 0119,Enterprise,West,Referral,CRM Essentials,Software,2,133.28,0.0,266.56,0.0,266.56,102,164.56
+ORD-50168,2025-09-07,CUST-0177,Customer 0177,Consumer,South,Email,Data Backup,Services,1,99.68,0.0,99.68,0.0,99.68,38,61.68
+ORD-50169,2025-09-03,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Training Package,Services,1,222.88,0.05,222.88,11.14,211.74,88,123.74
+ORD-50170,2025-09-09,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Implementation Pack,Services,2,334.88,0.0,669.76,0.0,669.76,280,389.76
+ORD-50171,2025-09-03,CUST-0142,Customer 0142,Consumer,North,Organic Search,Security Plus,Software,1,200.48,0.03,200.48,6.01,194.47,75,119.47
+ORD-50172,2025-09-23,CUST-0078,Customer 0078,Small Business,East,Paid Ads,Analytics Suite,Software,3,256.48,0.0,769.44,0.0,769.44,288,481.44
+ORD-50173,2025-09-26,CUST-0058,Customer 0058,Consumer,North,Paid Ads,Support Premium,Services,2,144.48,0.15,288.96,43.34,245.62,108,137.62
+ORD-50174,2025-09-09,CUST-0036,Customer 0036,Small Business,West,Referral,CRM Essentials,Software,1,133.28,0.08,133.28,10.66,122.62,51,71.62
+ORD-50175,2025-09-21,CUST-0175,Customer 0175,Consumer,South,Organic Search,Analytics Suite,Software,1,256.48,0.08,256.48,20.52,235.96,96,139.96
+ORD-50176,2025-09-06,CUST-0121,Customer 0121,Small Business,East,Social Media,Implementation Pack,Services,1,334.88,0.15,334.88,50.23,284.65,140,144.65
+ORD-50177,2025-09-20,CUST-0093,Customer 0093,Consumer,South,Paid Ads,Support Premium,Services,1,144.48,0.1,144.48,14.45,130.03,54,76.03
+ORD-50178,2025-09-18,CUST-0035,Customer 0035,Small Business,West,Organic Search,Data Backup,Services,3,99.68,0.15,299.04,44.86,254.18,114,140.18
+ORD-50179,2025-09-24,CUST-0013,Customer 0013,Consumer,North,Email,Implementation Pack,Services,2,334.88,0.0,669.76,0.0,669.76,280,389.76
+ORD-50180,2025-09-10,CUST-0071,Customer 0071,Consumer,North,Paid Ads,Support Premium,Services,2,144.48,0.0,288.96,0.0,288.96,108,180.96
+ORD-50181,2025-09-23,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Data Backup,Services,1,99.68,0.15,99.68,14.95,84.73,38,46.73
+ORD-50182,2025-09-22,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Security Plus,Software,1,200.48,0.03,200.48,6.01,194.47,75,119.47
+ORD-50183,2025-09-10,CUST-0107,Customer 0107,Consumer,West,Social Media,Analytics Suite,Software,1,256.48,0.03,256.48,7.69,248.79,96,152.79
+ORD-50184,2025-09-25,CUST-0034,Customer 0034,Enterprise,South,Email,Cloud Pro,Software,8,166.88,0.03,1335.04,40.05,1294.99,496,798.99
+ORD-50185,2025-09-07,CUST-0112,Customer 0112,Consumer,West,Email,Analytics Suite,Software,2,256.48,0.1,512.96,51.3,461.66,192,269.66
+ORD-50186,2025-09-07,CUST-0139,Customer 0139,Small Business,West,Referral,Cloud Pro,Software,1,166.88,0.03,166.88,5.01,161.87,62,99.87
+ORD-50187,2025-09-17,CUST-0008,Customer 0008,Enterprise,East,Email,Implementation Pack,Services,1,334.88,0.05,334.88,16.74,318.14,140,178.14
+ORD-50188,2025-09-08,CUST-0106,Customer 0106,Consumer,South,Referral,Implementation Pack,Services,1,334.88,0.08,334.88,26.79,308.09,140,168.09
+ORD-50189,2025-09-23,CUST-0011,Customer 0011,Consumer,East,Organic Search,Implementation Pack,Services,2,334.88,0.08,669.76,53.58,616.18,280,336.18
+ORD-50190,2025-09-21,CUST-0127,Customer 0127,Small Business,North,Referral,Support Premium,Services,3,144.48,0.0,433.44,0.0,433.44,162,271.44
+ORD-50191,2025-09-18,CUST-0167,Customer 0167,Consumer,East,Email,Implementation Pack,Services,2,334.88,0.0,669.76,0.0,669.76,280,389.76
+ORD-50192,2025-09-28,CUST-0066,Customer 0066,Consumer,West,Organic Search,Implementation Pack,Services,2,334.88,0.08,669.76,53.58,616.18,280,336.18
+ORD-50193,2025-09-02,CUST-0021,Customer 0021,Consumer,South,Email,Cloud Pro,Software,1,166.88,0.1,166.88,16.69,150.19,62,88.19
+ORD-50194,2025-09-22,CUST-0165,Customer 0165,Small Business,East,Referral,Cloud Pro,Software,2,166.88,0.15,333.76,50.06,283.7,124,159.7
+ORD-50195,2025-09-28,CUST-0122,Customer 0122,Consumer,West,Email,Training Package,Services,1,222.88,0.1,222.88,22.29,200.59,88,112.59
+ORD-50196,2025-10-14,CUST-0092,Customer 0092,Small Business,North,Email,Analytics Suite,Software,2,259.92,0.0,519.84,0.0,519.84,192,327.84
+ORD-50197,2025-10-15,CUST-0058,Customer 0058,Consumer,North,Paid Ads,Security Plus,Software,1,203.16,0.0,203.16,0.0,203.16,75,128.16
+ORD-50198,2025-10-17,CUST-0176,Customer 0176,Small Business,East,Referral,Cloud Pro,Software,1,169.12,0.1,169.12,16.91,152.21,62,90.21
+ORD-50199,2025-10-21,CUST-0122,Customer 0122,Consumer,West,Email,Implementation Pack,Services,1,339.37,0.15,339.37,50.91,288.46,140,148.46
+ORD-50200,2025-10-06,CUST-0034,Customer 0034,Enterprise,South,Email,Security Plus,Software,5,203.16,0.03,1015.8,30.47,985.33,375,610.33
+ORD-50201,2025-10-14,CUST-0079,Customer 0079,Small Business,South,Paid Ads,Training Package,Services,2,225.87,0.15,451.74,67.76,383.98,176,207.98
+ORD-50202,2025-10-13,CUST-0143,Customer 0143,Consumer,North,Referral,Training Package,Services,1,225.87,0.05,225.87,11.29,214.58,88,126.58
+ORD-50203,2025-10-20,CUST-0095,Customer 0095,Enterprise,East,Email,Security Plus,Software,3,203.16,0.1,609.48,60.95,548.53,225,323.53
+ORD-50204,2025-10-23,CUST-0147,Customer 0147,Consumer,North,Email,Support Premium,Services,1,146.41,0.03,146.41,4.39,142.02,54,88.02
+ORD-50205,2025-10-07,CUST-0062,Customer 0062,Small Business,North,Social Media,Implementation Pack,Services,2,339.37,0.15,678.74,101.81,576.93,280,296.93
+ORD-50206,2025-10-08,CUST-0069,Customer 0069,Enterprise,West,Referral,CRM Essentials,Software,1,135.06,0.0,135.06,0.0,135.06,51,84.06
+ORD-50207,2025-10-27,CUST-0058,Customer 0058,Consumer,North,Paid Ads,Data Backup,Services,2,101.02,0.05,202.04,10.1,191.94,76,115.94
+ORD-50208,2025-10-24,CUST-0117,Customer 0117,Small Business,North,Social Media,Cloud Pro,Software,4,169.12,0.15,676.48,101.47,575.01,248,327.01
+ORD-50209,2025-10-27,CUST-0075,Customer 0075,Consumer,South,Organic Search,Analytics Suite,Software,2,259.92,0.03,519.84,15.6,504.24,192,312.24
+ORD-50210,2025-10-25,CUST-0119,Customer 0119,Enterprise,West,Referral,Implementation Pack,Services,5,339.37,0.0,1696.85,0.0,1696.85,700,996.85
+ORD-50211,2025-10-03,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Training Package,Services,3,225.87,0.05,677.61,33.88,643.73,264,379.73
+ORD-50212,2025-10-17,CUST-0031,Customer 0031,Small Business,North,Referral,Data Backup,Services,1,101.02,0.0,101.02,0.0,101.02,38,63.02
+ORD-50213,2025-10-19,CUST-0034,Customer 0034,Enterprise,South,Email,Security Plus,Software,8,203.16,0.15,1625.28,243.79,1381.49,600,781.49
+ORD-50214,2025-10-09,CUST-0082,Customer 0082,Enterprise,South,Organic Search,Security Plus,Software,2,203.16,0.1,406.32,40.63,365.69,150,215.69
+ORD-50215,2025-10-09,CUST-0004,Customer 0004,Consumer,North,Paid Ads,Data Backup,Services,3,101.02,0.08,303.06,24.24,278.82,114,164.82
+ORD-50216,2025-10-25,CUST-0124,Customer 0124,Consumer,South,Email,Data Backup,Services,1,101.02,0.08,101.02,8.08,92.94,38,54.94
+ORD-50217,2025-10-13,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,CRM Essentials,Software,2,135.06,0.03,270.12,8.1,262.02,102,160.02
+ORD-50218,2025-10-20,CUST-0003,Customer 0003,Consumer,West,Paid Ads,CRM Essentials,Software,1,135.06,0.0,135.06,0.0,135.06,51,84.06
+ORD-50219,2025-10-01,CUST-0095,Customer 0095,Enterprise,East,Email,Training Package,Services,5,225.87,0.1,1129.35,112.94,1016.41,440,576.41
+ORD-50220,2025-10-23,CUST-0144,Customer 0144,Consumer,East,Social Media,Cloud Pro,Software,1,169.12,0.0,169.12,0.0,169.12,62,107.12
+ORD-50221,2025-10-01,CUST-0011,Customer 0011,Consumer,East,Organic Search,Implementation Pack,Services,2,339.37,0.0,678.74,0.0,678.74,280,398.74
+ORD-50222,2025-10-04,CUST-0126,Customer 0126,Small Business,West,Organic Search,Cloud Pro,Software,3,169.12,0.08,507.36,40.59,466.77,186,280.77
+ORD-50223,2025-10-20,CUST-0114,Customer 0114,Enterprise,North,Social Media,Cloud Pro,Software,2,169.12,0.15,338.24,50.74,287.5,124,163.5
+ORD-50224,2025-10-02,CUST-0040,Customer 0040,Small Business,South,Organic Search,Support Premium,Services,1,146.41,0.0,146.41,0.0,146.41,54,92.41
+ORD-50225,2025-10-10,CUST-0096,Customer 0096,Consumer,East,Organic Search,Support Premium,Services,1,146.41,0.0,146.41,0.0,146.41,54,92.41
+ORD-50226,2025-10-23,CUST-0135,Customer 0135,Consumer,South,Social Media,Support Premium,Services,1,146.41,0.08,146.41,11.71,134.7,54,80.7
+ORD-50227,2025-10-28,CUST-0025,Customer 0025,Small Business,West,Email,Training Package,Services,4,225.87,0.05,903.48,45.17,858.31,352,506.31
+ORD-50228,2025-10-12,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,Analytics Suite,Software,2,259.92,0.0,519.84,0.0,519.84,192,327.84
+ORD-50229,2025-10-08,CUST-0022,Customer 0022,Enterprise,North,Email,Analytics Suite,Software,1,259.92,0.0,259.92,0.0,259.92,96,163.92
+ORD-50230,2025-10-28,CUST-0131,Customer 0131,Consumer,West,Email,Security Plus,Software,3,203.16,0.0,609.48,0.0,609.48,225,384.48
+ORD-50231,2025-10-01,CUST-0079,Customer 0079,Small Business,South,Paid Ads,Cloud Pro,Software,2,169.12,0.0,338.24,0.0,338.24,124,214.24
+ORD-50232,2025-10-15,CUST-0080,Customer 0080,Consumer,East,Paid Ads,CRM Essentials,Software,1,135.06,0.15,135.06,20.26,114.8,51,63.8
+ORD-50233,2025-10-12,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Training Package,Services,2,225.87,0.03,451.74,13.55,438.19,176,262.19
+ORD-50234,2025-10-05,CUST-0046,Customer 0046,Consumer,South,Social Media,Security Plus,Software,3,203.16,0.0,609.48,0.0,609.48,225,384.48
+ORD-50235,2025-10-03,CUST-0108,Customer 0108,Small Business,South,Social Media,Support Premium,Services,1,146.41,0.1,146.41,14.64,131.77,54,77.77
+ORD-50236,2025-10-11,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Support Premium,Services,1,146.41,0.15,146.41,21.96,124.45,54,70.45
+ORD-50237,2025-10-06,CUST-0128,Customer 0128,Consumer,East,Social Media,CRM Essentials,Software,2,135.06,0.08,270.12,21.61,248.51,102,146.51
+ORD-50238,2025-10-07,CUST-0053,Customer 0053,Consumer,East,Referral,Analytics Suite,Software,2,259.92,0.0,519.84,0.0,519.84,192,327.84
+ORD-50239,2025-10-22,CUST-0126,Customer 0126,Small Business,West,Organic Search,Cloud Pro,Software,3,169.12,0.05,507.36,25.37,481.99,186,295.99
+ORD-50240,2025-10-28,CUST-0026,Customer 0026,Consumer,East,Referral,Training Package,Services,1,225.87,0.08,225.87,18.07,207.8,88,119.8
+ORD-50241,2025-10-20,CUST-0031,Customer 0031,Small Business,North,Referral,CRM Essentials,Software,3,135.06,0.15,405.18,60.78,344.4,153,191.4
+ORD-50242,2025-10-01,CUST-0154,Customer 0154,Small Business,South,Social Media,Analytics Suite,Software,4,259.92,0.05,1039.68,51.98,987.7,384,603.7
+ORD-50243,2025-10-11,CUST-0171,Customer 0171,Small Business,North,Referral,Training Package,Services,2,225.87,0.03,451.74,13.55,438.19,176,262.19
+ORD-50244,2025-10-08,CUST-0067,Customer 0067,Consumer,South,Referral,Implementation Pack,Services,1,339.37,0.05,339.37,16.97,322.4,140,182.4
+ORD-50245,2025-10-26,CUST-0085,Customer 0085,Consumer,North,Referral,Analytics Suite,Software,1,259.92,0.05,259.92,13.0,246.92,96,150.92
+ORD-50246,2025-10-11,CUST-0133,Customer 0133,Consumer,South,Email,CRM Essentials,Software,3,135.06,0.15,405.18,60.78,344.4,153,191.4
+ORD-50247,2025-10-24,CUST-0149,Customer 0149,Consumer,West,Organic Search,Support Premium,Services,1,146.41,0.08,146.41,11.71,134.7,54,80.7
+ORD-50248,2025-10-22,CUST-0024,Customer 0024,Consumer,East,Paid Ads,CRM Essentials,Software,1,135.06,0.05,135.06,6.75,128.31,51,77.31
+ORD-50249,2025-10-27,CUST-0175,Customer 0175,Consumer,South,Organic Search,CRM Essentials,Software,1,135.06,0.0,135.06,0.0,135.06,51,84.06
+ORD-50250,2025-10-26,CUST-0105,Customer 0105,Small Business,East,Organic Search,Training Package,Services,3,225.87,0.08,677.61,54.21,623.4,264,359.4
+ORD-50251,2025-10-20,CUST-0044,Customer 0044,Consumer,West,Paid Ads,Cloud Pro,Software,3,169.12,0.15,507.36,76.1,431.26,186,245.26
+ORD-50252,2025-10-05,CUST-0045,Customer 0045,Consumer,East,Organic Search,Cloud Pro,Software,1,169.12,0.1,169.12,16.91,152.21,62,90.21
+ORD-50253,2025-10-24,CUST-0080,Customer 0080,Consumer,East,Paid Ads,CRM Essentials,Software,2,135.06,0.0,270.12,0.0,270.12,102,168.12
+ORD-50254,2025-10-08,CUST-0076,Customer 0076,Consumer,South,Referral,CRM Essentials,Software,1,135.06,0.08,135.06,10.8,124.26,51,73.26
+ORD-50255,2025-10-26,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Cloud Pro,Software,5,169.12,0.1,845.6,84.56,761.04,310,451.04
+ORD-50256,2025-10-21,CUST-0153,Customer 0153,Small Business,East,Referral,Implementation Pack,Services,1,339.37,0.0,339.37,0.0,339.37,140,199.37
+ORD-50257,2025-10-11,CUST-0031,Customer 0031,Small Business,North,Referral,Support Premium,Services,1,146.41,0.0,146.41,0.0,146.41,54,92.41
+ORD-50258,2025-10-27,CUST-0031,Customer 0031,Small Business,North,Referral,Support Premium,Services,4,146.41,0.0,585.64,0.0,585.64,216,369.64
+ORD-50259,2025-10-05,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Security Plus,Software,1,203.16,0.1,203.16,20.32,182.84,75,107.84
+ORD-50260,2025-10-24,CUST-0088,Customer 0088,Enterprise,East,Email,CRM Essentials,Software,3,135.06,0.03,405.18,12.16,393.02,153,240.02
+ORD-50261,2025-11-17,CUST-0112,Customer 0112,Consumer,West,Email,Security Plus,Software,3,220.17,0.05,660.51,33.03,627.48,225,402.48
+ORD-50262,2025-11-21,CUST-0036,Customer 0036,Small Business,West,Referral,Support Premium,Services,2,158.67,0.0,317.34,0.0,317.34,108,209.34
+ORD-50263,2025-11-19,CUST-0131,Customer 0131,Consumer,West,Email,CRM Essentials,Software,1,146.37,0.15,146.37,21.96,124.41,51,73.41
+ORD-50264,2025-11-17,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Analytics Suite,Software,1,281.67,0.0,281.67,0.0,281.67,96,185.67
+ORD-50265,2025-11-01,CUST-0089,Customer 0089,Enterprise,North,Organic Search,Training Package,Services,1,244.77,0.0,244.77,0.0,244.77,88,156.77
+ORD-50266,2025-11-25,CUST-0043,Customer 0043,Small Business,West,Social Media,CRM Essentials,Software,1,146.37,0.05,146.37,7.32,139.05,51,88.05
+ORD-50267,2025-11-07,CUST-0177,Customer 0177,Consumer,South,Email,Training Package,Services,2,244.77,0.03,489.54,14.69,474.85,176,298.85
+ORD-50268,2025-11-25,CUST-0067,Customer 0067,Consumer,South,Referral,Security Plus,Software,1,220.17,0.03,220.17,6.61,213.56,75,138.56
+ORD-50269,2025-11-03,CUST-0102,Customer 0102,Small Business,North,Social Media,Implementation Pack,Services,3,367.77,0.0,1103.31,0.0,1103.31,420,683.31
+ORD-50270,2025-11-23,CUST-0052,Customer 0052,Enterprise,North,Organic Search,Implementation Pack,Services,2,367.77,0.1,735.54,73.55,661.99,280,381.99
+ORD-50271,2025-11-16,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Training Package,Services,2,244.77,0.1,489.54,48.95,440.59,176,264.59
+ORD-50272,2025-11-04,CUST-0019,Customer 0019,Consumer,South,Organic Search,Support Premium,Services,1,158.67,0.1,158.67,15.87,142.8,54,88.8
+ORD-50273,2025-11-12,CUST-0044,Customer 0044,Consumer,West,Paid Ads,Data Backup,Services,1,109.47,0.1,109.47,10.95,98.52,38,60.52
+ORD-50274,2025-11-02,CUST-0019,Customer 0019,Consumer,South,Organic Search,Training Package,Services,1,244.77,0.03,244.77,7.34,237.43,88,149.43
+ORD-50275,2025-11-25,CUST-0153,Customer 0153,Small Business,East,Referral,Training Package,Services,4,244.77,0.0,979.08,0.0,979.08,352,627.08
+ORD-50276,2025-11-13,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Implementation Pack,Services,1,367.77,0.0,367.77,0.0,367.77,140,227.77
+ORD-50277,2025-11-01,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,Cloud Pro,Software,2,183.27,0.1,366.54,36.65,329.89,124,205.89
+ORD-50278,2025-11-04,CUST-0038,Customer 0038,Consumer,North,Organic Search,CRM Essentials,Software,1,146.37,0.0,146.37,0.0,146.37,51,95.37
+ORD-50279,2025-11-04,CUST-0091,Customer 0091,Consumer,East,Referral,CRM Essentials,Software,1,146.37,0.1,146.37,14.64,131.73,51,80.73
+ORD-50280,2025-11-20,CUST-0022,Customer 0022,Enterprise,North,Email,Data Backup,Services,3,109.47,0.0,328.41,0.0,328.41,114,214.41
+ORD-50281,2025-11-17,CUST-0167,Customer 0167,Consumer,East,Email,Data Backup,Services,2,109.47,0.15,218.94,32.84,186.1,76,110.1
+ORD-50282,2025-11-28,CUST-0055,Customer 0055,Enterprise,South,Social Media,Data Backup,Services,2,109.47,0.0,218.94,0.0,218.94,76,142.94
+ORD-50283,2025-11-13,CUST-0136,Customer 0136,Enterprise,East,Paid Ads,CRM Essentials,Software,5,146.37,0.08,731.85,58.55,673.3,255,418.3
+ORD-50284,2025-11-26,CUST-0163,Customer 0163,Consumer,East,Social Media,Analytics Suite,Software,2,281.67,0.03,563.34,16.9,546.44,192,354.44
+ORD-50285,2025-11-06,CUST-0034,Customer 0034,Enterprise,South,Email,Analytics Suite,Software,8,281.67,0.0,2253.36,0.0,2253.36,768,1485.36
+ORD-50286,2025-11-17,CUST-0045,Customer 0045,Consumer,East,Organic Search,Security Plus,Software,2,220.17,0.15,440.34,66.05,374.29,150,224.29
+ORD-50287,2025-11-26,CUST-0171,Customer 0171,Small Business,North,Referral,Training Package,Services,1,244.77,0.15,244.77,36.72,208.05,88,120.05
+ORD-50288,2025-11-10,CUST-0137,Customer 0137,Consumer,South,Email,Support Premium,Services,1,158.67,0.0,158.67,0.0,158.67,54,104.67
+ORD-50289,2025-11-10,CUST-0004,Customer 0004,Consumer,North,Paid Ads,Implementation Pack,Services,1,367.77,0.0,367.77,0.0,367.77,140,227.77
+ORD-50290,2025-11-09,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Implementation Pack,Services,2,367.77,0.0,735.54,0.0,735.54,280,455.54
+ORD-50291,2025-11-03,CUST-0036,Customer 0036,Small Business,West,Referral,Support Premium,Services,2,158.67,0.15,317.34,47.6,269.74,108,161.74
+ORD-50292,2025-11-21,CUST-0163,Customer 0163,Consumer,East,Social Media,CRM Essentials,Software,2,146.37,0.15,292.74,43.91,248.83,102,146.83
+ORD-50293,2025-11-15,CUST-0126,Customer 0126,Small Business,West,Organic Search,Data Backup,Services,2,109.47,0.1,218.94,21.89,197.05,76,121.05
+ORD-50294,2025-11-24,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Training Package,Services,1,244.77,0.15,244.77,36.72,208.05,88,120.05
+ORD-50295,2025-11-13,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Analytics Suite,Software,2,281.67,0.0,563.34,0.0,563.34,192,371.34
+ORD-50296,2025-11-19,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Implementation Pack,Services,2,367.77,0.03,735.54,22.07,713.47,280,433.47
+ORD-50297,2025-11-19,CUST-0101,Customer 0101,Enterprise,East,Social Media,Implementation Pack,Services,8,367.77,0.0,2942.16,0.0,2942.16,1120,1822.16
+ORD-50298,2025-11-23,CUST-0106,Customer 0106,Consumer,South,Referral,Cloud Pro,Software,1,183.27,0.03,183.27,5.5,177.77,62,115.77
+ORD-50299,2025-11-26,CUST-0057,Customer 0057,Small Business,West,Paid Ads,Security Plus,Software,1,220.17,0.05,220.17,11.01,209.16,75,134.16
+ORD-50300,2025-11-16,CUST-0173,Customer 0173,Consumer,West,Email,CRM Essentials,Software,1,146.37,0.15,146.37,21.96,124.41,51,73.41
+ORD-50301,2025-11-20,CUST-0119,Customer 0119,Enterprise,West,Referral,Analytics Suite,Software,1,281.67,0.15,281.67,42.25,239.42,96,143.42
+ORD-50302,2025-11-27,CUST-0103,Customer 0103,Small Business,North,Organic Search,Data Backup,Services,2,109.47,0.05,218.94,10.95,207.99,76,131.99
+ORD-50303,2025-11-08,CUST-0154,Customer 0154,Small Business,South,Social Media,Data Backup,Services,3,109.47,0.0,328.41,0.0,328.41,114,214.41
+ORD-50304,2025-11-18,CUST-0118,Customer 0118,Consumer,South,Paid Ads,CRM Essentials,Software,1,146.37,0.05,146.37,7.32,139.05,51,88.05
+ORD-50305,2025-11-22,CUST-0063,Customer 0063,Small Business,South,Paid Ads,CRM Essentials,Software,3,146.37,0.05,439.11,21.96,417.15,153,264.15
+ORD-50306,2025-11-19,CUST-0002,Customer 0002,Enterprise,West,Paid Ads,Support Premium,Services,2,158.67,0.08,317.34,25.39,291.95,108,183.95
+ORD-50307,2025-11-10,CUST-0098,Customer 0098,Consumer,East,Referral,Implementation Pack,Services,1,367.77,0.1,367.77,36.78,330.99,140,190.99
+ORD-50308,2025-11-06,CUST-0140,Customer 0140,Small Business,South,Paid Ads,Cloud Pro,Software,2,183.27,0.08,366.54,29.32,337.22,124,213.22
+ORD-50309,2025-11-26,CUST-0012,Customer 0012,Small Business,East,Referral,Security Plus,Software,2,220.17,0.0,440.34,0.0,440.34,150,290.34
+ORD-50310,2025-11-15,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Cloud Pro,Software,2,183.27,0.08,366.54,29.32,337.22,124,213.22
+ORD-50311,2025-11-20,CUST-0105,Customer 0105,Small Business,East,Organic Search,Implementation Pack,Services,1,367.77,0.1,367.77,36.78,330.99,140,190.99
+ORD-50312,2025-11-25,CUST-0128,Customer 0128,Consumer,East,Social Media,Analytics Suite,Software,1,281.67,0.0,281.67,0.0,281.67,96,185.67
+ORD-50313,2025-11-01,CUST-0146,Customer 0146,Consumer,East,Email,Support Premium,Services,1,158.67,0.0,158.67,0.0,158.67,54,104.67
+ORD-50314,2025-11-28,CUST-0046,Customer 0046,Consumer,South,Social Media,CRM Essentials,Software,1,146.37,0.0,146.37,0.0,146.37,51,95.37
+ORD-50315,2025-11-26,CUST-0127,Customer 0127,Small Business,North,Referral,Cloud Pro,Software,4,183.27,0.1,733.08,73.31,659.77,248,411.77
+ORD-50316,2025-11-09,CUST-0109,Customer 0109,Consumer,North,Paid Ads,CRM Essentials,Software,3,146.37,0.08,439.11,35.13,403.98,153,250.98
+ORD-50317,2025-11-05,CUST-0080,Customer 0080,Consumer,East,Paid Ads,CRM Essentials,Software,3,146.37,0.08,439.11,35.13,403.98,153,250.98
+ORD-50318,2025-11-05,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Training Package,Services,5,244.77,0.15,1223.85,183.58,1040.27,440,600.27
+ORD-50319,2025-11-15,CUST-0071,Customer 0071,Consumer,North,Paid Ads,Data Backup,Services,1,109.47,0.15,109.47,16.42,93.05,38,55.05
+ORD-50320,2025-11-13,CUST-0113,Customer 0113,Consumer,East,Social Media,Data Backup,Services,1,109.47,0.15,109.47,16.42,93.05,38,55.05
+ORD-50321,2025-11-04,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Security Plus,Software,1,220.17,0.0,220.17,0.0,220.17,75,145.17
+ORD-50322,2025-11-20,CUST-0111,Customer 0111,Small Business,South,Organic Search,Support Premium,Services,4,158.67,0.05,634.68,31.73,602.95,216,386.95
+ORD-50323,2025-11-12,CUST-0041,Customer 0041,Small Business,East,Referral,Analytics Suite,Software,2,281.67,0.1,563.34,56.33,507.01,192,315.01
+ORD-50324,2025-11-26,CUST-0056,Customer 0056,Small Business,South,Email,Data Backup,Services,2,109.47,0.1,218.94,21.89,197.05,76,121.05
+ORD-50325,2025-11-12,CUST-0155,Customer 0155,Consumer,East,Referral,Training Package,Services,1,244.77,0.1,244.77,24.48,220.29,88,132.29
+ORD-50326,2025-12-19,CUST-0045,Customer 0045,Consumer,East,Organic Search,Analytics Suite,Software,1,285.11,0.08,285.11,22.81,262.3,96,166.3
+ORD-50327,2025-12-05,CUST-0010,Customer 0010,Consumer,East,Referral,Security Plus,Software,1,222.86,0.0,222.86,0.0,222.86,75,147.86
+ORD-50328,2025-12-06,CUST-0111,Customer 0111,Small Business,South,Organic Search,Training Package,Services,2,247.76,0.08,495.52,39.64,455.88,176,279.88
+ORD-50329,2025-12-17,CUST-0043,Customer 0043,Small Business,West,Social Media,Support Premium,Services,3,160.61,0.0,481.83,0.0,481.83,162,319.83
+ORD-50330,2025-12-09,CUST-0049,Customer 0049,Small Business,West,Organic Search,Analytics Suite,Software,1,285.11,0.08,285.11,22.81,262.3,96,166.3
+ORD-50331,2025-12-22,CUST-0126,Customer 0126,Small Business,West,Organic Search,Analytics Suite,Software,2,285.11,0.0,570.22,0.0,570.22,192,378.22
+ORD-50332,2025-12-02,CUST-0033,Customer 0033,Small Business,East,Email,Implementation Pack,Services,1,372.26,0.0,372.26,0.0,372.26,140,232.26
+ORD-50333,2025-12-11,CUST-0126,Customer 0126,Small Business,West,Organic Search,Data Backup,Services,1,110.81,0.05,110.81,5.54,105.27,38,67.27
+ORD-50334,2025-12-23,CUST-0127,Customer 0127,Small Business,North,Referral,Security Plus,Software,2,222.86,0.05,445.72,22.29,423.43,150,273.43
+ORD-50335,2025-12-14,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Security Plus,Software,1,222.86,0.0,222.86,0.0,222.86,75,147.86
+ORD-50336,2025-12-11,CUST-0009,Customer 0009,Enterprise,North,Referral,Training Package,Services,5,247.76,0.03,1238.8,37.16,1201.64,440,761.64
+ORD-50337,2025-12-20,CUST-0001,Customer 0001,Consumer,North,Social Media,Analytics Suite,Software,1,285.11,0.03,285.11,8.55,276.56,96,180.56
+ORD-50338,2025-12-14,CUST-0074,Customer 0074,Enterprise,West,Referral,Training Package,Services,1,247.76,0.08,247.76,19.82,227.94,88,139.94
+ORD-50339,2025-12-02,CUST-0093,Customer 0093,Consumer,South,Paid Ads,Data Backup,Services,1,110.81,0.15,110.81,16.62,94.19,38,56.19
+ORD-50340,2025-12-17,CUST-0008,Customer 0008,Enterprise,East,Email,Support Premium,Services,3,160.61,0.1,481.83,48.18,433.65,162,271.65
+ORD-50341,2025-12-04,CUST-0083,Customer 0083,Small Business,East,Social Media,Analytics Suite,Software,4,285.11,0.08,1140.44,91.24,1049.2,384,665.2
+ORD-50342,2025-12-03,CUST-0001,Customer 0001,Consumer,North,Social Media,Analytics Suite,Software,1,285.11,0.0,285.11,0.0,285.11,96,189.11
+ORD-50343,2025-12-22,CUST-0096,Customer 0096,Consumer,East,Organic Search,Training Package,Services,1,247.76,0.15,247.76,37.16,210.6,88,122.6
+ORD-50344,2025-12-24,CUST-0008,Customer 0008,Enterprise,East,Email,Security Plus,Software,5,222.86,0.08,1114.3,89.14,1025.16,375,650.16
+ORD-50345,2025-12-23,CUST-0019,Customer 0019,Consumer,South,Organic Search,Implementation Pack,Services,2,372.26,0.15,744.52,111.68,632.84,280,352.84
+ORD-50346,2025-12-03,CUST-0160,Customer 0160,Consumer,South,Email,Training Package,Services,1,247.76,0.0,247.76,0.0,247.76,88,159.76
+ORD-50347,2025-12-11,CUST-0016,Customer 0016,Enterprise,East,Email,Analytics Suite,Software,3,285.11,0.15,855.33,128.3,727.03,288,439.03
+ORD-50348,2025-12-12,CUST-0074,Customer 0074,Enterprise,West,Referral,Data Backup,Services,2,110.81,0.0,221.62,0.0,221.62,76,145.62
+ORD-50349,2025-12-24,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Implementation Pack,Services,3,372.26,0.03,1116.78,33.5,1083.28,420,663.28
+ORD-50350,2025-12-05,CUST-0172,Customer 0172,Small Business,East,Social Media,Security Plus,Software,2,222.86,0.1,445.72,44.57,401.15,150,251.15
+ORD-50351,2025-12-10,CUST-0018,Customer 0018,Consumer,North,Paid Ads,Cloud Pro,Software,2,185.51,0.03,371.02,11.13,359.89,124,235.89
+ORD-50352,2025-12-26,CUST-0147,Customer 0147,Consumer,North,Email,Cloud Pro,Software,2,185.51,0.08,371.02,29.68,341.34,124,217.34
+ORD-50353,2025-12-20,CUST-0043,Customer 0043,Small Business,West,Social Media,Analytics Suite,Software,2,285.11,0.08,570.22,45.62,524.6,192,332.6
+ORD-50354,2025-12-08,CUST-0016,Customer 0016,Enterprise,East,Email,Data Backup,Services,3,110.81,0.03,332.43,9.97,322.46,114,208.46
+ORD-50355,2025-12-21,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,Data Backup,Services,2,110.81,0.05,221.62,11.08,210.54,76,134.54
+ORD-50356,2025-12-19,CUST-0059,Customer 0059,Consumer,South,Social Media,Security Plus,Software,2,222.86,0.1,445.72,44.57,401.15,150,251.15
+ORD-50357,2025-12-14,CUST-0114,Customer 0114,Enterprise,North,Social Media,Implementation Pack,Services,5,372.26,0.0,1861.3,0.0,1861.3,700,1161.3
+ORD-50358,2025-12-05,CUST-0135,Customer 0135,Consumer,South,Social Media,Implementation Pack,Services,2,372.26,0.03,744.52,22.34,722.18,280,442.18
+ORD-50359,2025-12-17,CUST-0069,Customer 0069,Enterprise,West,Referral,Support Premium,Services,2,160.61,0.1,321.22,32.12,289.1,108,181.1
+ORD-50360,2025-12-17,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Implementation Pack,Services,2,372.26,0.08,744.52,59.56,684.96,280,404.96
+ORD-50361,2025-12-28,CUST-0012,Customer 0012,Small Business,East,Referral,Training Package,Services,2,247.76,0.08,495.52,39.64,455.88,176,279.88
+ORD-50362,2025-12-05,CUST-0091,Customer 0091,Consumer,East,Referral,Training Package,Services,2,247.76,0.15,495.52,74.33,421.19,176,245.19
+ORD-50363,2025-12-25,CUST-0084,Customer 0084,Small Business,North,Paid Ads,CRM Essentials,Software,2,148.16,0.03,296.32,8.89,287.43,102,185.43
+ORD-50364,2025-12-14,CUST-0112,Customer 0112,Consumer,West,Email,Analytics Suite,Software,3,285.11,0.15,855.33,128.3,727.03,288,439.03
+ORD-50365,2025-12-13,CUST-0055,Customer 0055,Enterprise,South,Social Media,Data Backup,Services,1,110.81,0.03,110.81,3.32,107.49,38,69.49
+ORD-50366,2025-12-12,CUST-0021,Customer 0021,Consumer,South,Email,Security Plus,Software,1,222.86,0.15,222.86,33.43,189.43,75,114.43
+ORD-50367,2025-12-06,CUST-0006,Customer 0006,Consumer,West,Referral,Training Package,Services,2,247.76,0.03,495.52,14.87,480.65,176,304.65
+ORD-50368,2025-12-22,CUST-0107,Customer 0107,Consumer,West,Social Media,Training Package,Services,2,247.76,0.08,495.52,39.64,455.88,176,279.88
+ORD-50369,2025-12-03,CUST-0031,Customer 0031,Small Business,North,Referral,Data Backup,Services,3,110.81,0.0,332.43,0.0,332.43,114,218.43
+ORD-50370,2025-12-23,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,Analytics Suite,Software,8,285.11,0.0,2280.88,0.0,2280.88,768,1512.88
+ORD-50371,2025-12-15,CUST-0008,Customer 0008,Enterprise,East,Email,Support Premium,Services,2,160.61,0.05,321.22,16.06,305.16,108,197.16
+ORD-50372,2025-12-18,CUST-0099,Customer 0099,Small Business,North,Referral,Security Plus,Software,3,222.86,0.15,668.58,100.29,568.29,225,343.29
+ORD-50373,2025-12-18,CUST-0133,Customer 0133,Consumer,South,Email,Training Package,Services,2,247.76,0.0,495.52,0.0,495.52,176,319.52
+ORD-50374,2025-12-23,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Data Backup,Services,2,110.81,0.15,221.62,33.24,188.38,76,112.38
+ORD-50375,2025-12-03,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Analytics Suite,Software,1,285.11,0.15,285.11,42.77,242.34,96,146.34
+ORD-50376,2025-12-14,CUST-0060,Customer 0060,Consumer,North,Email,Data Backup,Services,1,110.81,0.15,110.81,16.62,94.19,38,56.19
+ORD-50377,2025-12-04,CUST-0158,Customer 0158,Consumer,East,Referral,Implementation Pack,Services,1,372.26,0.0,372.26,0.0,372.26,140,232.26
+ORD-50378,2025-12-28,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Security Plus,Software,2,222.86,0.1,445.72,44.57,401.15,150,251.15
+ORD-50379,2025-12-04,CUST-0093,Customer 0093,Consumer,South,Paid Ads,Data Backup,Services,2,110.81,0.15,221.62,33.24,188.38,76,112.38
+ORD-50380,2025-12-12,CUST-0131,Customer 0131,Consumer,West,Email,Cloud Pro,Software,2,185.51,0.15,371.02,55.65,315.37,124,191.37
+ORD-50381,2025-12-05,CUST-0098,Customer 0098,Consumer,East,Referral,Support Premium,Services,1,160.61,0.05,160.61,8.03,152.58,54,98.58
+ORD-50382,2025-12-10,CUST-0177,Customer 0177,Consumer,South,Email,Data Backup,Services,2,110.81,0.05,221.62,11.08,210.54,76,134.54
+ORD-50383,2025-12-06,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,CRM Essentials,Software,5,148.16,0.0,740.8,0.0,740.8,255,485.8
+ORD-50384,2025-12-22,CUST-0129,Customer 0129,Small Business,North,Organic Search,Data Backup,Services,2,110.81,0.0,221.62,0.0,221.62,76,145.62
+ORD-50385,2025-12-12,CUST-0086,Customer 0086,Enterprise,South,Referral,Cloud Pro,Software,5,185.51,0.1,927.55,92.75,834.8,310,524.8
+ORD-50386,2025-12-22,CUST-0161,Customer 0161,Consumer,North,Referral,Support Premium,Services,2,160.61,0.15,321.22,48.18,273.04,108,165.04
+ORD-50387,2025-12-17,CUST-0114,Customer 0114,Enterprise,North,Social Media,Analytics Suite,Software,5,285.11,0.05,1425.55,71.28,1354.27,480,874.27
+ORD-50388,2025-12-19,CUST-0132,Customer 0132,Consumer,South,Paid Ads,Support Premium,Services,1,160.61,0.08,160.61,12.85,147.76,54,93.76
+ORD-50389,2025-12-16,CUST-0151,Customer 0151,Small Business,West,Paid Ads,Training Package,Services,3,247.76,0.0,743.28,0.0,743.28,264,479.28
+ORD-50390,2025-12-12,CUST-0153,Customer 0153,Small Business,East,Referral,Support Premium,Services,2,160.61,0.1,321.22,32.12,289.1,108,181.1
+ORD-50391,2026-01-01,CUST-0082,Customer 0082,Enterprise,South,Organic Search,Support Premium,Services,2,129.0,0.05,258.0,12.9,245.1,108,137.1
+ORD-50392,2026-01-21,CUST-0096,Customer 0096,Consumer,East,Organic Search,Implementation Pack,Services,3,299.0,0.03,897.0,26.91,870.09,420,450.09
+ORD-50393,2026-01-22,CUST-0136,Customer 0136,Enterprise,East,Paid Ads,Security Plus,Software,8,179.0,0.1,1432.0,143.2,1288.8,600,688.8
+ORD-50394,2026-01-18,CUST-0180,Customer 0180,Small Business,North,Social Media,Training Package,Services,2,199.0,0.08,398.0,31.84,366.16,176,190.16
+ORD-50395,2026-01-06,CUST-0127,Customer 0127,Small Business,North,Referral,Implementation Pack,Services,1,299.0,0.05,299.0,14.95,284.05,140,144.05
+ORD-50396,2026-01-03,CUST-0067,Customer 0067,Consumer,South,Referral,Data Backup,Services,2,89.0,0.05,178.0,8.9,169.1,76,93.1
+ORD-50397,2026-01-14,CUST-0126,Customer 0126,Small Business,West,Organic Search,Support Premium,Services,2,129.0,0.0,258.0,0.0,258.0,108,150.0
+ORD-50398,2026-01-05,CUST-0163,Customer 0163,Consumer,East,Social Media,Data Backup,Services,1,89.0,0.0,89.0,0.0,89.0,38,51.0
+ORD-50399,2026-01-06,CUST-0004,Customer 0004,Consumer,North,Paid Ads,Analytics Suite,Software,2,229.0,0.05,458.0,22.9,435.1,192,243.1
+ORD-50400,2026-01-15,CUST-0036,Customer 0036,Small Business,West,Referral,Cloud Pro,Software,1,149.0,0.03,149.0,4.47,144.53,62,82.53
+ORD-50401,2026-01-16,CUST-0088,Customer 0088,Enterprise,East,Email,Cloud Pro,Software,2,149.0,0.0,298.0,0.0,298.0,124,174.0
+ORD-50402,2026-01-11,CUST-0126,Customer 0126,Small Business,West,Organic Search,Support Premium,Services,2,129.0,0.15,258.0,38.7,219.3,108,111.3
+ORD-50403,2026-01-03,CUST-0178,Customer 0178,Consumer,East,Organic Search,Data Backup,Services,1,89.0,0.08,89.0,7.12,81.88,38,43.88
+ORD-50404,2026-01-13,CUST-0008,Customer 0008,Enterprise,East,Email,Analytics Suite,Software,8,229.0,0.15,1832.0,274.8,1557.2,768,789.2
+ORD-50405,2026-01-24,CUST-0150,Customer 0150,Small Business,South,Referral,CRM Essentials,Software,4,119.0,0.0,476.0,0.0,476.0,204,272.0
+ORD-50406,2026-01-16,CUST-0136,Customer 0136,Enterprise,East,Paid Ads,Security Plus,Software,2,179.0,0.0,358.0,0.0,358.0,150,208.0
+ORD-50407,2026-01-09,CUST-0072,Customer 0072,Small Business,East,Organic Search,Implementation Pack,Services,3,299.0,0.1,897.0,89.7,807.3,420,387.3
+ORD-50408,2026-01-11,CUST-0055,Customer 0055,Enterprise,South,Social Media,Implementation Pack,Services,5,299.0,0.0,1495.0,0.0,1495.0,700,795.0
+ORD-50409,2026-01-15,CUST-0148,Customer 0148,Consumer,East,Organic Search,Security Plus,Software,1,179.0,0.08,179.0,14.32,164.68,75,89.68
+ORD-50410,2026-01-26,CUST-0049,Customer 0049,Small Business,West,Organic Search,Training Package,Services,2,199.0,0.15,398.0,59.7,338.3,176,162.3
+ORD-50411,2026-01-15,CUST-0179,Customer 0179,Small Business,South,Paid Ads,Data Backup,Services,2,89.0,0.03,178.0,5.34,172.66,76,96.66
+ORD-50412,2026-01-25,CUST-0051,Customer 0051,Consumer,East,Referral,CRM Essentials,Software,1,119.0,0.0,119.0,0.0,119.0,51,68.0
+ORD-50413,2026-01-18,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Implementation Pack,Services,1,299.0,0.15,299.0,44.85,254.15,140,114.15
+ORD-50414,2026-01-24,CUST-0125,Customer 0125,Consumer,North,Referral,Support Premium,Services,1,129.0,0.0,129.0,0.0,129.0,54,75.0
+ORD-50415,2026-01-26,CUST-0115,Customer 0115,Small Business,East,Referral,Data Backup,Services,2,89.0,0.15,178.0,26.7,151.3,76,75.3
+ORD-50416,2026-01-19,CUST-0004,Customer 0004,Consumer,North,Paid Ads,Data Backup,Services,1,89.0,0.0,89.0,0.0,89.0,38,51.0
+ORD-50417,2026-01-10,CUST-0107,Customer 0107,Consumer,West,Social Media,Data Backup,Services,1,89.0,0.0,89.0,0.0,89.0,38,51.0
+ORD-50418,2026-01-07,CUST-0053,Customer 0053,Consumer,East,Referral,Analytics Suite,Software,3,229.0,0.15,687.0,103.05,583.95,288,295.95
+ORD-50419,2026-01-17,CUST-0051,Customer 0051,Consumer,East,Referral,Implementation Pack,Services,2,299.0,0.15,598.0,89.7,508.3,280,228.3
+ORD-50420,2026-01-20,CUST-0053,Customer 0053,Consumer,East,Referral,Analytics Suite,Software,2,229.0,0.1,458.0,45.8,412.2,192,220.2
+ORD-50421,2026-01-10,CUST-0086,Customer 0086,Enterprise,South,Referral,Support Premium,Services,2,129.0,0.15,258.0,38.7,219.3,108,111.3
+ORD-50422,2026-01-13,CUST-0019,Customer 0019,Consumer,South,Organic Search,Implementation Pack,Services,3,299.0,0.05,897.0,44.85,852.15,420,432.15
+ORD-50423,2026-01-12,CUST-0044,Customer 0044,Consumer,West,Paid Ads,Support Premium,Services,1,129.0,0.0,129.0,0.0,129.0,54,75.0
+ORD-50424,2026-01-23,CUST-0178,Customer 0178,Consumer,East,Organic Search,CRM Essentials,Software,1,119.0,0.1,119.0,11.9,107.1,51,56.1
+ORD-50425,2026-01-03,CUST-0077,Customer 0077,Small Business,South,Organic Search,CRM Essentials,Software,2,119.0,0.0,238.0,0.0,238.0,102,136.0
+ORD-50426,2026-01-20,CUST-0174,Customer 0174,Enterprise,West,Referral,Training Package,Services,2,199.0,0.15,398.0,59.7,338.3,176,162.3
+ORD-50427,2026-01-20,CUST-0087,Customer 0087,Consumer,North,Email,Security Plus,Software,1,179.0,0.1,179.0,17.9,161.1,75,86.1
+ORD-50428,2026-01-02,CUST-0016,Customer 0016,Enterprise,East,Email,CRM Essentials,Software,3,119.0,0.0,357.0,0.0,357.0,153,204.0
+ORD-50429,2026-01-13,CUST-0093,Customer 0093,Consumer,South,Paid Ads,CRM Essentials,Software,1,119.0,0.15,119.0,17.85,101.15,51,50.15
+ORD-50430,2026-01-12,CUST-0091,Customer 0091,Consumer,East,Referral,Data Backup,Services,1,89.0,0.03,89.0,2.67,86.33,38,48.33
+ORD-50431,2026-01-21,CUST-0024,Customer 0024,Consumer,East,Paid Ads,Security Plus,Software,1,179.0,0.15,179.0,26.85,152.15,75,77.15
+ORD-50432,2026-01-13,CUST-0010,Customer 0010,Consumer,East,Referral,Support Premium,Services,1,129.0,0.15,129.0,19.35,109.65,54,55.65
+ORD-50433,2026-01-25,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Implementation Pack,Services,4,299.0,0.05,1196.0,59.8,1136.2,560,576.2
+ORD-50434,2026-01-17,CUST-0046,Customer 0046,Consumer,South,Social Media,CRM Essentials,Software,1,119.0,0.03,119.0,3.57,115.43,51,64.43
+ORD-50435,2026-01-06,CUST-0138,Customer 0138,Consumer,North,Paid Ads,Security Plus,Software,1,179.0,0.15,179.0,26.85,152.15,75,77.15
+ORD-50436,2026-01-20,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Training Package,Services,2,199.0,0.03,398.0,11.94,386.06,176,210.06
+ORD-50437,2026-01-26,CUST-0009,Customer 0009,Enterprise,North,Referral,CRM Essentials,Software,2,119.0,0.08,238.0,19.04,218.96,102,116.96
+ORD-50438,2026-01-28,CUST-0069,Customer 0069,Enterprise,West,Referral,Security Plus,Software,1,179.0,0.03,179.0,5.37,173.63,75,98.63
+ORD-50439,2026-01-20,CUST-0152,Customer 0152,Consumer,North,Organic Search,Cloud Pro,Software,2,149.0,0.0,298.0,0.0,298.0,124,174.0
+ORD-50440,2026-01-11,CUST-0033,Customer 0033,Small Business,East,Email,CRM Essentials,Software,3,119.0,0.03,357.0,10.71,346.29,153,193.29
+ORD-50441,2026-01-08,CUST-0060,Customer 0060,Consumer,North,Email,Implementation Pack,Services,1,299.0,0.15,299.0,44.85,254.15,140,114.15
+ORD-50442,2026-01-22,CUST-0068,Customer 0068,Consumer,West,Email,Data Backup,Services,1,89.0,0.03,89.0,2.67,86.33,38,48.33
+ORD-50443,2026-01-11,CUST-0090,Customer 0090,Consumer,East,Organic Search,Analytics Suite,Software,2,229.0,0.08,458.0,36.64,421.36,192,229.36
+ORD-50444,2026-01-06,CUST-0093,Customer 0093,Consumer,South,Paid Ads,Security Plus,Software,2,179.0,0.15,358.0,53.7,304.3,150,154.3
+ORD-50445,2026-01-24,CUST-0153,Customer 0153,Small Business,East,Referral,Analytics Suite,Software,2,229.0,0.15,458.0,68.7,389.3,192,197.3
+ORD-50446,2026-01-23,CUST-0050,Customer 0050,Enterprise,West,Organic Search,Training Package,Services,1,199.0,0.0,199.0,0.0,199.0,88,111.0
+ORD-50447,2026-01-08,CUST-0143,Customer 0143,Consumer,North,Referral,Support Premium,Services,1,129.0,0.1,129.0,12.9,116.1,54,62.1
+ORD-50448,2026-01-17,CUST-0115,Customer 0115,Small Business,East,Referral,Implementation Pack,Services,1,299.0,0.05,299.0,14.95,284.05,140,144.05
+ORD-50449,2026-01-14,CUST-0002,Customer 0002,Enterprise,West,Paid Ads,Implementation Pack,Services,3,299.0,0.15,897.0,134.55,762.45,420,342.45
+ORD-50450,2026-01-22,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Implementation Pack,Services,5,299.0,0.0,1495.0,0.0,1495.0,700,795.0
+ORD-50451,2026-01-22,CUST-0166,Customer 0166,Small Business,West,Email,Security Plus,Software,3,179.0,0.15,537.0,80.55,456.45,225,231.45
+ORD-50452,2026-01-08,CUST-0122,Customer 0122,Consumer,West,Email,Training Package,Services,1,199.0,0.03,199.0,5.97,193.03,88,105.03
+ORD-50453,2026-01-11,CUST-0149,Customer 0149,Consumer,West,Organic Search,CRM Essentials,Software,2,119.0,0.05,238.0,11.9,226.1,102,124.1
+ORD-50454,2026-01-24,CUST-0177,Customer 0177,Consumer,South,Email,Security Plus,Software,1,179.0,0.1,179.0,17.9,161.1,75,86.1
+ORD-50455,2026-01-19,CUST-0121,Customer 0121,Small Business,East,Social Media,Security Plus,Software,1,179.0,0.0,179.0,0.0,179.0,75,104.0
+ORD-50456,2026-02-15,CUST-0013,Customer 0013,Consumer,North,Email,Training Package,Services,3,201.98,0.05,605.94,30.3,575.64,264,311.64
+ORD-50457,2026-02-09,CUST-0058,Customer 0058,Consumer,North,Paid Ads,CRM Essentials,Software,1,120.78,0.15,120.78,18.12,102.66,51,51.66
+ORD-50458,2026-02-14,CUST-0084,Customer 0084,Small Business,North,Paid Ads,CRM Essentials,Software,2,120.78,0.0,241.56,0.0,241.56,102,139.56
+ORD-50459,2026-02-02,CUST-0163,Customer 0163,Consumer,East,Social Media,Cloud Pro,Software,1,151.23,0.0,151.23,0.0,151.23,62,89.23
+ORD-50460,2026-02-03,CUST-0075,Customer 0075,Consumer,South,Organic Search,Analytics Suite,Software,1,232.43,0.05,232.43,11.62,220.81,96,124.81
+ORD-50461,2026-02-11,CUST-0071,Customer 0071,Consumer,North,Paid Ads,CRM Essentials,Software,1,120.78,0.0,120.78,0.0,120.78,51,69.78
+ORD-50462,2026-02-11,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Analytics Suite,Software,1,232.43,0.1,232.43,23.24,209.19,96,113.19
+ORD-50463,2026-02-12,CUST-0124,Customer 0124,Consumer,South,Email,Training Package,Services,1,201.98,0.15,201.98,30.3,171.68,88,83.68
+ORD-50464,2026-02-12,CUST-0170,Customer 0170,Small Business,North,Email,CRM Essentials,Software,4,120.78,0.0,483.12,0.0,483.12,204,279.12
+ORD-50465,2026-02-24,CUST-0144,Customer 0144,Consumer,East,Social Media,Analytics Suite,Software,1,232.43,0.08,232.43,18.59,213.84,96,117.84
+ORD-50466,2026-02-06,CUST-0089,Customer 0089,Enterprise,North,Organic Search,Security Plus,Software,3,181.68,0.15,545.04,81.76,463.28,225,238.28
+ORD-50467,2026-02-16,CUST-0151,Customer 0151,Small Business,West,Paid Ads,Cloud Pro,Software,4,151.23,0.05,604.92,30.25,574.67,248,326.67
+ORD-50468,2026-02-15,CUST-0010,Customer 0010,Consumer,East,Referral,Analytics Suite,Software,1,232.43,0.0,232.43,0.0,232.43,96,136.43
+ORD-50469,2026-02-02,CUST-0088,Customer 0088,Enterprise,East,Email,Support Premium,Services,1,130.93,0.05,130.93,6.55,124.38,54,70.38
+ORD-50470,2026-02-13,CUST-0031,Customer 0031,Small Business,North,Referral,Training Package,Services,2,201.98,0.05,403.96,20.2,383.76,176,207.76
+ORD-50471,2026-02-15,CUST-0078,Customer 0078,Small Business,East,Paid Ads,Data Backup,Services,4,90.33,0.08,361.32,28.91,332.41,152,180.41
+ORD-50472,2026-02-19,CUST-0131,Customer 0131,Consumer,West,Email,Security Plus,Software,1,181.68,0.08,181.68,14.53,167.15,75,92.15
+ORD-50473,2026-02-23,CUST-0171,Customer 0171,Small Business,North,Referral,Analytics Suite,Software,2,232.43,0.05,464.86,23.24,441.62,192,249.62
+ORD-50474,2026-02-05,CUST-0111,Customer 0111,Small Business,South,Organic Search,Cloud Pro,Software,1,151.23,0.03,151.23,4.54,146.69,62,84.69
+ORD-50475,2026-02-19,CUST-0049,Customer 0049,Small Business,West,Organic Search,Training Package,Services,2,201.98,0.1,403.96,40.4,363.56,176,187.56
+ORD-50476,2026-02-22,CUST-0108,Customer 0108,Small Business,South,Social Media,Training Package,Services,1,201.98,0.05,201.98,10.1,191.88,88,103.88
+ORD-50477,2026-02-09,CUST-0141,Customer 0141,Consumer,East,Paid Ads,Security Plus,Software,3,181.68,0.03,545.04,16.35,528.69,225,303.69
+ORD-50478,2026-02-16,CUST-0118,Customer 0118,Consumer,South,Paid Ads,Data Backup,Services,1,90.33,0.03,90.33,2.71,87.62,38,49.62
+ORD-50479,2026-02-15,CUST-0122,Customer 0122,Consumer,West,Email,Security Plus,Software,1,181.68,0.0,181.68,0.0,181.68,75,106.68
+ORD-50480,2026-02-13,CUST-0073,Customer 0073,Small Business,South,Organic Search,Security Plus,Software,2,181.68,0.1,363.36,36.34,327.02,150,177.02
+ORD-50481,2026-02-26,CUST-0176,Customer 0176,Small Business,East,Referral,Security Plus,Software,1,181.68,0.15,181.68,27.25,154.43,75,79.43
+ORD-50482,2026-02-03,CUST-0079,Customer 0079,Small Business,South,Paid Ads,Data Backup,Services,2,90.33,0.08,180.66,14.45,166.21,76,90.21
+ORD-50483,2026-02-18,CUST-0031,Customer 0031,Small Business,North,Referral,Security Plus,Software,1,181.68,0.05,181.68,9.08,172.6,75,97.6
+ORD-50484,2026-02-22,CUST-0048,Customer 0048,Consumer,South,Paid Ads,Cloud Pro,Software,1,151.23,0.0,151.23,0.0,151.23,62,89.23
+ORD-50485,2026-02-07,CUST-0164,Customer 0164,Consumer,South,Paid Ads,Data Backup,Services,2,90.33,0.03,180.66,5.42,175.24,76,99.24
+ORD-50486,2026-02-16,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Analytics Suite,Software,2,232.43,0.08,464.86,37.19,427.67,192,235.67
+ORD-50487,2026-02-10,CUST-0006,Customer 0006,Consumer,West,Referral,Support Premium,Services,1,130.93,0.15,130.93,19.64,111.29,54,57.29
+ORD-50488,2026-02-24,CUST-0068,Customer 0068,Consumer,West,Email,Security Plus,Software,3,181.68,0.1,545.04,54.5,490.54,225,265.54
+ORD-50489,2026-02-16,CUST-0022,Customer 0022,Enterprise,North,Email,Support Premium,Services,2,130.93,0.15,261.86,39.28,222.58,108,114.58
+ORD-50490,2026-02-16,CUST-0090,Customer 0090,Consumer,East,Organic Search,Analytics Suite,Software,2,232.43,0.15,464.86,69.73,395.13,192,203.13
+ORD-50491,2026-02-11,CUST-0176,Customer 0176,Small Business,East,Referral,CRM Essentials,Software,2,120.78,0.1,241.56,24.16,217.4,102,115.4
+ORD-50492,2026-02-10,CUST-0174,Customer 0174,Enterprise,West,Referral,Training Package,Services,2,201.98,0.05,403.96,20.2,383.76,176,207.76
+ORD-50493,2026-02-02,CUST-0128,Customer 0128,Consumer,East,Social Media,CRM Essentials,Software,2,120.78,0.15,241.56,36.23,205.33,102,103.33
+ORD-50494,2026-02-27,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Analytics Suite,Software,2,232.43,0.1,464.86,46.49,418.37,192,226.37
+ORD-50495,2026-02-15,CUST-0045,Customer 0045,Consumer,East,Organic Search,Training Package,Services,1,201.98,0.0,201.98,0.0,201.98,88,113.98
+ORD-50496,2026-02-22,CUST-0153,Customer 0153,Small Business,East,Referral,Support Premium,Services,1,130.93,0.05,130.93,6.55,124.38,54,70.38
+ORD-50497,2026-02-16,CUST-0110,Customer 0110,Small Business,West,Referral,Training Package,Services,4,201.98,0.08,807.92,64.63,743.29,352,391.29
+ORD-50498,2026-02-25,CUST-0019,Customer 0019,Consumer,South,Organic Search,Training Package,Services,2,201.98,0.05,403.96,20.2,383.76,176,207.76
+ORD-50499,2026-02-19,CUST-0051,Customer 0051,Consumer,East,Referral,Analytics Suite,Software,1,232.43,0.08,232.43,18.59,213.84,96,117.84
+ORD-50500,2026-02-20,CUST-0026,Customer 0026,Consumer,East,Referral,Data Backup,Services,3,90.33,0.0,270.99,0.0,270.99,114,156.99
+ORD-50501,2026-02-16,CUST-0153,Customer 0153,Small Business,East,Referral,Security Plus,Software,3,181.68,0.15,545.04,81.76,463.28,225,238.28
+ORD-50502,2026-02-06,CUST-0145,Customer 0145,Consumer,South,Social Media,Support Premium,Services,1,130.93,0.05,130.93,6.55,124.38,54,70.38
+ORD-50503,2026-02-20,CUST-0035,Customer 0035,Small Business,West,Organic Search,Data Backup,Services,2,90.33,0.1,180.66,18.07,162.59,76,86.59
+ORD-50504,2026-02-25,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Cloud Pro,Software,1,151.23,0.0,151.23,0.0,151.23,62,89.23
+ORD-50505,2026-02-18,CUST-0142,Customer 0142,Consumer,North,Organic Search,Data Backup,Services,2,90.33,0.1,180.66,18.07,162.59,76,86.59
+ORD-50506,2026-02-14,CUST-0008,Customer 0008,Enterprise,East,Email,Support Premium,Services,5,130.93,0.0,654.65,0.0,654.65,270,384.65
+ORD-50507,2026-02-10,CUST-0155,Customer 0155,Consumer,East,Referral,Implementation Pack,Services,3,303.48,0.0,910.44,0.0,910.44,420,490.44
+ORD-50508,2026-02-09,CUST-0056,Customer 0056,Small Business,South,Email,Support Premium,Services,4,130.93,0.15,523.72,78.56,445.16,216,229.16
+ORD-50509,2026-02-06,CUST-0077,Customer 0077,Small Business,South,Organic Search,Cloud Pro,Software,4,151.23,0.03,604.92,18.15,586.77,248,338.77
+ORD-50510,2026-02-08,CUST-0026,Customer 0026,Consumer,East,Referral,Training Package,Services,1,201.98,0.05,201.98,10.1,191.88,88,103.88
+ORD-50511,2026-02-04,CUST-0137,Customer 0137,Consumer,South,Email,Training Package,Services,1,201.98,0.03,201.98,6.06,195.92,88,107.92
+ORD-50512,2026-02-17,CUST-0178,Customer 0178,Consumer,East,Organic Search,Cloud Pro,Software,1,151.23,0.0,151.23,0.0,151.23,62,89.23
+ORD-50513,2026-02-08,CUST-0116,Customer 0116,Small Business,East,Organic Search,Training Package,Services,3,201.98,0.1,605.94,60.59,545.35,264,281.35
+ORD-50514,2026-02-20,CUST-0124,Customer 0124,Consumer,South,Email,Implementation Pack,Services,1,303.48,0.15,303.48,45.52,257.96,140,117.96
+ORD-50515,2026-02-04,CUST-0172,Customer 0172,Small Business,East,Social Media,Support Premium,Services,3,130.93,0.08,392.79,31.42,361.37,162,199.37
+ORD-50516,2026-02-13,CUST-0102,Customer 0102,Small Business,North,Social Media,CRM Essentials,Software,4,120.78,0.0,483.12,0.0,483.12,204,279.12
+ORD-50517,2026-02-04,CUST-0180,Customer 0180,Small Business,North,Social Media,CRM Essentials,Software,2,120.78,0.0,241.56,0.0,241.56,102,139.56
+ORD-50518,2026-02-15,CUST-0170,Customer 0170,Small Business,North,Email,Support Premium,Services,3,130.93,0.0,392.79,0.0,392.79,162,230.79
+ORD-50519,2026-02-09,CUST-0142,Customer 0142,Consumer,North,Organic Search,Support Premium,Services,1,130.93,0.1,130.93,13.09,117.84,54,63.84
+ORD-50520,2026-02-21,CUST-0147,Customer 0147,Consumer,North,Email,CRM Essentials,Software,1,120.78,0.1,120.78,12.08,108.7,51,57.7
+ORD-50521,2026-03-21,CUST-0068,Customer 0068,Consumer,West,Email,Implementation Pack,Services,1,322.92,0.0,322.92,0.0,322.92,140,182.92
+ORD-50522,2026-03-25,CUST-0088,Customer 0088,Enterprise,East,Email,Cloud Pro,Software,3,160.92,0.0,482.76,0.0,482.76,186,296.76
+ORD-50523,2026-03-15,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Analytics Suite,Software,4,247.32,0.08,989.28,79.14,910.14,384,526.14
+ORD-50524,2026-03-07,CUST-0109,Customer 0109,Consumer,North,Paid Ads,Cloud Pro,Software,1,160.92,0.03,160.92,4.83,156.09,62,94.09
+ORD-50525,2026-03-26,CUST-0142,Customer 0142,Consumer,North,Organic Search,Analytics Suite,Software,2,247.32,0.0,494.64,0.0,494.64,192,302.64
+ORD-50526,2026-03-20,CUST-0022,Customer 0022,Enterprise,North,Email,Training Package,Services,5,214.92,0.0,1074.6,0.0,1074.6,440,634.6
+ORD-50527,2026-03-25,CUST-0160,Customer 0160,Consumer,South,Email,Implementation Pack,Services,1,322.92,0.0,322.92,0.0,322.92,140,182.92
+ORD-50528,2026-03-09,CUST-0112,Customer 0112,Consumer,West,Email,CRM Essentials,Software,1,128.52,0.0,128.52,0.0,128.52,51,77.52
+ORD-50529,2026-03-27,CUST-0130,Customer 0130,Consumer,East,Paid Ads,Analytics Suite,Software,1,247.32,0.03,247.32,7.42,239.9,96,143.9
+ORD-50530,2026-03-12,CUST-0048,Customer 0048,Consumer,South,Paid Ads,Data Backup,Services,1,96.12,0.05,96.12,4.81,91.31,38,53.31
+ORD-50531,2026-03-06,CUST-0052,Customer 0052,Enterprise,North,Organic Search,Cloud Pro,Software,1,160.92,0.0,160.92,0.0,160.92,62,98.92
+ORD-50532,2026-03-24,CUST-0180,Customer 0180,Small Business,North,Social Media,Support Premium,Services,3,139.32,0.15,417.96,62.69,355.27,162,193.27
+ORD-50533,2026-03-18,CUST-0117,Customer 0117,Small Business,North,Social Media,Implementation Pack,Services,2,322.92,0.08,645.84,51.67,594.17,280,314.17
+ORD-50534,2026-03-01,CUST-0124,Customer 0124,Consumer,South,Email,Analytics Suite,Software,1,247.32,0.0,247.32,0.0,247.32,96,151.32
+ORD-50535,2026-03-05,CUST-0130,Customer 0130,Consumer,East,Paid Ads,Analytics Suite,Software,1,247.32,0.0,247.32,0.0,247.32,96,151.32
+ORD-50536,2026-03-26,CUST-0009,Customer 0009,Enterprise,North,Referral,Security Plus,Software,1,193.32,0.03,193.32,5.8,187.52,75,112.52
+ORD-50537,2026-03-03,CUST-0069,Customer 0069,Enterprise,West,Referral,Support Premium,Services,5,139.32,0.05,696.6,34.83,661.77,270,391.77
+ORD-50538,2026-03-06,CUST-0033,Customer 0033,Small Business,East,Email,Security Plus,Software,2,193.32,0.05,386.64,19.33,367.31,150,217.31
+ORD-50539,2026-03-06,CUST-0137,Customer 0137,Consumer,South,Email,Support Premium,Services,2,139.32,0.15,278.64,41.8,236.84,108,128.84
+ORD-50540,2026-03-08,CUST-0010,Customer 0010,Consumer,East,Referral,Data Backup,Services,1,96.12,0.15,96.12,14.42,81.7,38,43.7
+ORD-50541,2026-03-18,CUST-0052,Customer 0052,Enterprise,North,Organic Search,Analytics Suite,Software,3,247.32,0.08,741.96,59.36,682.6,288,394.6
+ORD-50542,2026-03-28,CUST-0025,Customer 0025,Small Business,West,Email,Data Backup,Services,3,96.12,0.03,288.36,8.65,279.71,114,165.71
+ORD-50543,2026-03-28,CUST-0051,Customer 0051,Consumer,East,Referral,Security Plus,Software,1,193.32,0.15,193.32,29.0,164.32,75,89.32
+ORD-50544,2026-03-03,CUST-0005,Customer 0005,Consumer,East,Organic Search,Cloud Pro,Software,3,160.92,0.0,482.76,0.0,482.76,186,296.76
+ORD-50545,2026-03-14,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Cloud Pro,Software,3,160.92,0.05,482.76,24.14,458.62,186,272.62
+ORD-50546,2026-03-11,CUST-0030,Customer 0030,Consumer,West,Email,CRM Essentials,Software,2,128.52,0.1,257.04,25.7,231.34,102,129.34
+ORD-50547,2026-03-05,CUST-0086,Customer 0086,Enterprise,South,Referral,Security Plus,Software,5,193.32,0.08,966.6,77.33,889.27,375,514.27
+ORD-50548,2026-03-26,CUST-0085,Customer 0085,Consumer,North,Referral,Cloud Pro,Software,1,160.92,0.1,160.92,16.09,144.83,62,82.83
+ORD-50549,2026-03-15,CUST-0013,Customer 0013,Consumer,North,Email,Analytics Suite,Software,1,247.32,0.03,247.32,7.42,239.9,96,143.9
+ORD-50550,2026-03-12,CUST-0107,Customer 0107,Consumer,West,Social Media,Analytics Suite,Software,1,247.32,0.05,247.32,12.37,234.95,96,138.95
+ORD-50551,2026-03-07,CUST-0180,Customer 0180,Small Business,North,Social Media,CRM Essentials,Software,2,128.52,0.0,257.04,0.0,257.04,102,155.04
+ORD-50552,2026-03-23,CUST-0171,Customer 0171,Small Business,North,Referral,Analytics Suite,Software,1,247.32,0.1,247.32,24.73,222.59,96,126.59
+ORD-50553,2026-03-26,CUST-0099,Customer 0099,Small Business,North,Referral,CRM Essentials,Software,1,128.52,0.0,128.52,0.0,128.52,51,77.52
+ORD-50554,2026-03-04,CUST-0087,Customer 0087,Consumer,North,Email,Security Plus,Software,2,193.32,0.05,386.64,19.33,367.31,150,217.31
+ORD-50555,2026-03-05,CUST-0097,Customer 0097,Small Business,West,Organic Search,Security Plus,Software,1,193.32,0.08,193.32,15.47,177.85,75,102.85
+ORD-50556,2026-03-06,CUST-0138,Customer 0138,Consumer,North,Paid Ads,Implementation Pack,Services,1,322.92,0.0,322.92,0.0,322.92,140,182.92
+ORD-50557,2026-03-10,CUST-0146,Customer 0146,Consumer,East,Email,Data Backup,Services,2,96.12,0.0,192.24,0.0,192.24,76,116.24
+ORD-50558,2026-03-08,CUST-0078,Customer 0078,Small Business,East,Paid Ads,CRM Essentials,Software,4,128.52,0.03,514.08,15.42,498.66,204,294.66
+ORD-50559,2026-03-24,CUST-0031,Customer 0031,Small Business,North,Referral,Security Plus,Software,2,193.32,0.05,386.64,19.33,367.31,150,217.31
+ORD-50560,2026-03-18,CUST-0121,Customer 0121,Small Business,East,Social Media,CRM Essentials,Software,1,128.52,0.15,128.52,19.28,109.24,51,58.24
+ORD-50561,2026-03-19,CUST-0063,Customer 0063,Small Business,South,Paid Ads,Implementation Pack,Services,2,322.92,0.15,645.84,96.88,548.96,280,268.96
+ORD-50562,2026-03-28,CUST-0148,Customer 0148,Consumer,East,Organic Search,Training Package,Services,1,214.92,0.08,214.92,17.19,197.73,88,109.73
+ORD-50563,2026-03-28,CUST-0180,Customer 0180,Small Business,North,Social Media,Implementation Pack,Services,1,322.92,0.08,322.92,25.83,297.09,140,157.09
+ORD-50564,2026-03-21,CUST-0087,Customer 0087,Consumer,North,Email,Implementation Pack,Services,1,322.92,0.0,322.92,0.0,322.92,140,182.92
+ORD-50565,2026-03-17,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Analytics Suite,Software,2,247.32,0.05,494.64,24.73,469.91,192,277.91
+ORD-50566,2026-03-09,CUST-0125,Customer 0125,Consumer,North,Referral,CRM Essentials,Software,2,128.52,0.03,257.04,7.71,249.33,102,147.33
+ORD-50567,2026-03-15,CUST-0009,Customer 0009,Enterprise,North,Referral,Analytics Suite,Software,5,247.32,0.05,1236.6,61.83,1174.77,480,694.77
+ORD-50568,2026-03-04,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Analytics Suite,Software,3,247.32,0.15,741.96,111.29,630.67,288,342.67
+ORD-50569,2026-03-24,CUST-0019,Customer 0019,Consumer,South,Organic Search,CRM Essentials,Software,2,128.52,0.15,257.04,38.56,218.48,102,116.48
+ORD-50570,2026-03-12,CUST-0030,Customer 0030,Consumer,West,Email,Training Package,Services,2,214.92,0.03,429.84,12.9,416.94,176,240.94
+ORD-50571,2026-03-11,CUST-0090,Customer 0090,Consumer,East,Organic Search,Data Backup,Services,2,96.12,0.08,192.24,15.38,176.86,76,100.86
+ORD-50572,2026-03-09,CUST-0126,Customer 0126,Small Business,West,Organic Search,Cloud Pro,Software,2,160.92,0.0,321.84,0.0,321.84,124,197.84
+ORD-50573,2026-03-28,CUST-0008,Customer 0008,Enterprise,East,Email,Security Plus,Software,5,193.32,0.08,966.6,77.33,889.27,375,514.27
+ORD-50574,2026-03-10,CUST-0078,Customer 0078,Small Business,East,Paid Ads,Security Plus,Software,2,193.32,0.08,386.64,30.93,355.71,150,205.71
+ORD-50575,2026-03-19,CUST-0160,Customer 0160,Consumer,South,Email,Analytics Suite,Software,2,247.32,0.0,494.64,0.0,494.64,192,302.64
+ORD-50576,2026-03-09,CUST-0001,Customer 0001,Consumer,North,Social Media,Support Premium,Services,1,139.32,0.15,139.32,20.9,118.42,54,64.42
+ORD-50577,2026-03-21,CUST-0123,Customer 0123,Consumer,West,Paid Ads,Data Backup,Services,2,96.12,0.08,192.24,15.38,176.86,76,100.86
+ORD-50578,2026-03-28,CUST-0033,Customer 0033,Small Business,East,Email,Cloud Pro,Software,4,160.92,0.03,643.68,19.31,624.37,248,376.37
+ORD-50579,2026-03-03,CUST-0008,Customer 0008,Enterprise,East,Email,Data Backup,Services,5,96.12,0.08,480.6,38.45,442.15,190,252.15
+ORD-50580,2026-03-11,CUST-0135,Customer 0135,Consumer,South,Social Media,Cloud Pro,Software,1,160.92,0.0,160.92,0.0,160.92,62,98.92
+ORD-50581,2026-03-19,CUST-0009,Customer 0009,Enterprise,North,Referral,Analytics Suite,Software,3,247.32,0.15,741.96,111.29,630.67,288,342.67
+ORD-50582,2026-03-08,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Implementation Pack,Services,1,322.92,0.0,322.92,0.0,322.92,140,182.92
+ORD-50583,2026-03-05,CUST-0165,Customer 0165,Small Business,East,Referral,Data Backup,Services,2,96.12,0.03,192.24,5.77,186.47,76,110.47
+ORD-50584,2026-03-15,CUST-0001,Customer 0001,Consumer,North,Social Media,Security Plus,Software,1,193.32,0.15,193.32,29.0,164.32,75,89.32
+ORD-50585,2026-03-10,CUST-0098,Customer 0098,Consumer,East,Referral,Data Backup,Services,1,96.12,0.0,96.12,0.0,96.12,38,58.12
+ORD-50586,2026-04-11,CUST-0149,Customer 0149,Consumer,West,Organic Search,Support Premium,Services,2,141.25,0.0,282.5,0.0,282.5,108,174.5
+ORD-50587,2026-04-05,CUST-0060,Customer 0060,Consumer,North,Email,Security Plus,Software,1,196.0,0.05,196.0,9.8,186.2,75,111.2
+ORD-50588,2026-04-01,CUST-0175,Customer 0175,Consumer,South,Organic Search,Cloud Pro,Software,1,163.16,0.0,163.16,0.0,163.16,62,101.16
+ORD-50589,2026-04-02,CUST-0142,Customer 0142,Consumer,North,Organic Search,Support Premium,Services,1,141.25,0.0,141.25,0.0,141.25,54,87.25
+ORD-50590,2026-04-01,CUST-0128,Customer 0128,Consumer,East,Social Media,Cloud Pro,Software,2,163.16,0.15,326.32,48.95,277.37,124,153.37
+ORD-50591,2026-04-16,CUST-0166,Customer 0166,Small Business,West,Email,Analytics Suite,Software,2,250.75,0.0,501.5,0.0,501.5,192,309.5
+ORD-50592,2026-04-05,CUST-0155,Customer 0155,Consumer,East,Referral,Analytics Suite,Software,1,250.75,0.05,250.75,12.54,238.21,96,142.21
+ORD-50593,2026-04-05,CUST-0123,Customer 0123,Consumer,West,Paid Ads,Analytics Suite,Software,2,250.75,0.0,501.5,0.0,501.5,192,309.5
+ORD-50594,2026-04-19,CUST-0078,Customer 0078,Small Business,East,Paid Ads,Implementation Pack,Services,3,327.4,0.15,982.2,147.33,834.87,420,414.87
+ORD-50595,2026-04-19,CUST-0073,Customer 0073,Small Business,South,Organic Search,Cloud Pro,Software,2,163.16,0.0,326.32,0.0,326.32,124,202.32
+ORD-50596,2026-04-07,CUST-0063,Customer 0063,Small Business,South,Paid Ads,Analytics Suite,Software,3,250.75,0.0,752.25,0.0,752.25,288,464.25
+ORD-50597,2026-04-24,CUST-0148,Customer 0148,Consumer,East,Organic Search,Cloud Pro,Software,1,163.16,0.1,163.16,16.32,146.84,62,84.84
+ORD-50598,2026-04-02,CUST-0040,Customer 0040,Small Business,South,Organic Search,Training Package,Services,2,217.91,0.03,435.82,13.07,422.75,176,246.75
+ORD-50599,2026-04-11,CUST-0162,Customer 0162,Consumer,West,Referral,Analytics Suite,Software,1,250.75,0.08,250.75,20.06,230.69,96,134.69
+ORD-50600,2026-04-28,CUST-0162,Customer 0162,Consumer,West,Referral,Security Plus,Software,1,196.0,0.05,196.0,9.8,186.2,75,111.2
+ORD-50601,2026-04-09,CUST-0101,Customer 0101,Enterprise,East,Social Media,Analytics Suite,Software,2,250.75,0.15,501.5,75.22,426.28,192,234.28
+ORD-50602,2026-04-27,CUST-0155,Customer 0155,Consumer,East,Referral,Training Package,Services,2,217.91,0.1,435.82,43.58,392.24,176,216.24
+ORD-50603,2026-04-21,CUST-0107,Customer 0107,Consumer,West,Social Media,Support Premium,Services,2,141.25,0.03,282.5,8.47,274.03,108,166.03
+ORD-50604,2026-04-10,CUST-0026,Customer 0026,Consumer,East,Referral,Support Premium,Services,2,141.25,0.05,282.5,14.12,268.38,108,160.38
+ORD-50605,2026-04-16,CUST-0063,Customer 0063,Small Business,South,Paid Ads,CRM Essentials,Software,1,130.31,0.0,130.31,0.0,130.31,51,79.31
+ORD-50606,2026-04-27,CUST-0120,Customer 0120,Enterprise,South,Paid Ads,CRM Essentials,Software,5,130.31,0.03,651.55,19.55,632.0,255,377.0
+ORD-50607,2026-04-02,CUST-0125,Customer 0125,Consumer,North,Referral,Implementation Pack,Services,2,327.4,0.1,654.8,65.48,589.32,280,309.32
+ORD-50608,2026-04-18,CUST-0154,Customer 0154,Small Business,South,Social Media,Cloud Pro,Software,1,163.16,0.15,163.16,24.47,138.69,62,76.69
+ORD-50609,2026-04-12,CUST-0064,Customer 0064,Enterprise,South,Social Media,Cloud Pro,Software,8,163.16,0.03,1305.28,39.16,1266.12,496,770.12
+ORD-50610,2026-04-15,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Security Plus,Software,1,196.0,0.08,196.0,15.68,180.32,75,105.32
+ORD-50611,2026-04-07,CUST-0088,Customer 0088,Enterprise,East,Email,Cloud Pro,Software,3,163.16,0.05,489.48,24.47,465.01,186,279.01
+ORD-50612,2026-04-12,CUST-0152,Customer 0152,Consumer,North,Organic Search,Data Backup,Services,1,97.45,0.0,97.45,0.0,97.45,38,59.45
+ORD-50613,2026-04-04,CUST-0032,Customer 0032,Consumer,North,Email,Data Backup,Services,2,97.45,0.08,194.9,15.59,179.31,76,103.31
+ORD-50614,2026-04-24,CUST-0088,Customer 0088,Enterprise,East,Email,Training Package,Services,2,217.91,0.1,435.82,43.58,392.24,176,216.24
+ORD-50615,2026-04-24,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,Cloud Pro,Software,2,163.16,0.03,326.32,9.79,316.53,124,192.53
+ORD-50616,2026-04-05,CUST-0010,Customer 0010,Consumer,East,Referral,Support Premium,Services,1,141.25,0.0,141.25,0.0,141.25,54,87.25
+ORD-50617,2026-04-28,CUST-0142,Customer 0142,Consumer,North,Organic Search,Cloud Pro,Software,1,163.16,0.03,163.16,4.89,158.27,62,96.27
+ORD-50618,2026-04-28,CUST-0111,Customer 0111,Small Business,South,Organic Search,Cloud Pro,Software,1,163.16,0.05,163.16,8.16,155.0,62,93.0
+ORD-50619,2026-04-14,CUST-0061,Customer 0061,Enterprise,South,Email,Data Backup,Services,5,97.45,0.03,487.25,14.62,472.63,190,282.63
+ORD-50620,2026-04-24,CUST-0039,Customer 0039,Consumer,North,Paid Ads,Training Package,Services,1,217.91,0.03,217.91,6.54,211.37,88,123.37
+ORD-50621,2026-04-02,CUST-0169,Customer 0169,Consumer,West,Referral,Support Premium,Services,1,141.25,0.0,141.25,0.0,141.25,54,87.25
+ORD-50622,2026-04-25,CUST-0096,Customer 0096,Consumer,East,Organic Search,Analytics Suite,Software,1,250.75,0.1,250.75,25.08,225.67,96,129.67
+ORD-50623,2026-04-11,CUST-0029,Customer 0029,Enterprise,East,Email,Training Package,Services,3,217.91,0.15,653.73,98.06,555.67,264,291.67
+ORD-50624,2026-04-11,CUST-0002,Customer 0002,Enterprise,West,Paid Ads,Implementation Pack,Services,5,327.4,0.05,1637.0,81.85,1555.15,700,855.15
+ORD-50625,2026-04-21,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Support Premium,Services,1,141.25,0.0,141.25,0.0,141.25,54,87.25
+ORD-50626,2026-04-21,CUST-0163,Customer 0163,Consumer,East,Social Media,Training Package,Services,2,217.91,0.08,435.82,34.87,400.95,176,224.95
+ORD-50627,2026-04-10,CUST-0101,Customer 0101,Enterprise,East,Social Media,Implementation Pack,Services,2,327.4,0.05,654.8,32.74,622.06,280,342.06
+ORD-50628,2026-04-17,CUST-0142,Customer 0142,Consumer,North,Organic Search,CRM Essentials,Software,1,130.31,0.05,130.31,6.52,123.79,51,72.79
+ORD-50629,2026-04-27,CUST-0085,Customer 0085,Consumer,North,Referral,Security Plus,Software,1,196.0,0.0,196.0,0.0,196.0,75,121.0
+ORD-50630,2026-04-13,CUST-0128,Customer 0128,Consumer,East,Social Media,Implementation Pack,Services,2,327.4,0.03,654.8,19.64,635.16,280,355.16
+ORD-50631,2026-04-19,CUST-0011,Customer 0011,Consumer,East,Organic Search,Security Plus,Software,2,196.0,0.03,392.0,11.76,380.24,150,230.24
+ORD-50632,2026-04-07,CUST-0107,Customer 0107,Consumer,West,Social Media,Cloud Pro,Software,3,163.16,0.0,489.48,0.0,489.48,186,303.48
+ORD-50633,2026-04-20,CUST-0126,Customer 0126,Small Business,West,Organic Search,CRM Essentials,Software,3,130.31,0.1,390.93,39.09,351.84,153,198.84
+ORD-50634,2026-04-18,CUST-0099,Customer 0099,Small Business,North,Referral,Analytics Suite,Software,1,250.75,0.05,250.75,12.54,238.21,96,142.21
+ORD-50635,2026-04-09,CUST-0081,Customer 0081,Consumer,East,Organic Search,Support Premium,Services,1,141.25,0.0,141.25,0.0,141.25,54,87.25
+ORD-50636,2026-04-17,CUST-0044,Customer 0044,Consumer,West,Paid Ads,Data Backup,Services,2,97.45,0.08,194.9,15.59,179.31,76,103.31
+ORD-50637,2026-04-21,CUST-0069,Customer 0069,Enterprise,West,Referral,Support Premium,Services,3,141.25,0.03,423.75,12.71,411.04,162,249.04
+ORD-50638,2026-04-07,CUST-0044,Customer 0044,Consumer,West,Paid Ads,CRM Essentials,Software,2,130.31,0.03,260.62,7.82,252.8,102,150.8
+ORD-50639,2026-04-20,CUST-0155,Customer 0155,Consumer,East,Referral,Implementation Pack,Services,2,327.4,0.08,654.8,52.38,602.42,280,322.42
+ORD-50640,2026-04-20,CUST-0051,Customer 0051,Consumer,East,Referral,CRM Essentials,Software,1,130.31,0.05,130.31,6.52,123.79,51,72.79
+ORD-50641,2026-04-04,CUST-0055,Customer 0055,Enterprise,South,Social Media,Analytics Suite,Software,1,250.75,0.03,250.75,7.52,243.23,96,147.23
+ORD-50642,2026-04-23,CUST-0170,Customer 0170,Small Business,North,Email,Analytics Suite,Software,2,250.75,0.0,501.5,0.0,501.5,192,309.5
+ORD-50643,2026-04-28,CUST-0036,Customer 0036,Small Business,West,Referral,Support Premium,Services,2,141.25,0.03,282.5,8.47,274.03,108,166.03
+ORD-50644,2026-04-03,CUST-0037,Customer 0037,Consumer,West,Social Media,Analytics Suite,Software,3,250.75,0.0,752.25,0.0,752.25,288,464.25
+ORD-50645,2026-04-08,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Data Backup,Services,2,97.45,0.0,194.9,0.0,194.9,76,118.9
+ORD-50646,2026-04-27,CUST-0072,Customer 0072,Small Business,East,Organic Search,Security Plus,Software,3,196.0,0.1,588.0,58.8,529.2,225,304.2
+ORD-50647,2026-04-11,CUST-0176,Customer 0176,Small Business,East,Referral,Implementation Pack,Services,3,327.4,0.05,982.2,49.11,933.09,420,513.09
+ORD-50648,2026-04-12,CUST-0066,Customer 0066,Consumer,West,Organic Search,Training Package,Services,1,217.91,0.0,217.91,0.0,217.91,88,129.91
+ORD-50649,2026-04-28,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Data Backup,Services,2,97.45,0.03,194.9,5.85,189.05,76,113.05
+ORD-50650,2026-04-05,CUST-0129,Customer 0129,Small Business,North,Organic Search,Training Package,Services,2,217.91,0.0,435.82,0.0,435.82,176,259.82
+ORD-50651,2026-05-26,CUST-0057,Customer 0057,Small Business,West,Paid Ads,Training Package,Services,1,210.94,0.1,210.94,21.09,189.85,88,101.85
+ORD-50652,2026-05-24,CUST-0047,Customer 0047,Small Business,East,Paid Ads,Implementation Pack,Services,2,316.94,0.05,633.88,31.69,602.19,280,322.19
+ORD-50653,2026-05-11,CUST-0098,Customer 0098,Consumer,East,Referral,Data Backup,Services,2,94.34,0.1,188.68,18.87,169.81,76,93.81
+ORD-50654,2026-05-03,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Support Premium,Services,3,136.74,0.15,410.22,61.53,348.69,162,186.69
+ORD-50655,2026-05-19,CUST-0053,Customer 0053,Consumer,East,Referral,Implementation Pack,Services,1,316.94,0.03,316.94,9.51,307.43,140,167.43
+ORD-50656,2026-05-08,CUST-0064,Customer 0064,Enterprise,South,Social Media,Training Package,Services,5,210.94,0.05,1054.7,52.74,1001.96,440,561.96
+ORD-50657,2026-05-28,CUST-0103,Customer 0103,Small Business,North,Organic Search,Support Premium,Services,3,136.74,0.08,410.22,32.82,377.4,162,215.4
+ORD-50658,2026-05-15,CUST-0013,Customer 0013,Consumer,North,Email,Cloud Pro,Software,1,157.94,0.0,157.94,0.0,157.94,62,95.94
+ORD-50659,2026-05-17,CUST-0062,Customer 0062,Small Business,North,Social Media,Implementation Pack,Services,2,316.94,0.03,633.88,19.02,614.86,280,334.86
+ORD-50660,2026-05-17,CUST-0092,Customer 0092,Small Business,North,Email,CRM Essentials,Software,2,126.14,0.1,252.28,25.23,227.05,102,125.05
+ORD-50661,2026-05-22,CUST-0032,Customer 0032,Consumer,North,Email,Analytics Suite,Software,1,242.74,0.05,242.74,12.14,230.6,96,134.6
+ORD-50662,2026-05-25,CUST-0069,Customer 0069,Enterprise,West,Referral,Analytics Suite,Software,3,242.74,0.0,728.22,0.0,728.22,288,440.22
+ORD-50663,2026-05-05,CUST-0027,Customer 0027,Consumer,South,Paid Ads,Cloud Pro,Software,1,157.94,0.1,157.94,15.79,142.15,62,80.15
+ORD-50664,2026-05-25,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Cloud Pro,Software,1,157.94,0.03,157.94,4.74,153.2,62,91.2
+ORD-50665,2026-05-20,CUST-0032,Customer 0032,Consumer,North,Email,Data Backup,Services,2,94.34,0.0,188.68,0.0,188.68,76,112.68
+ORD-50666,2026-05-10,CUST-0063,Customer 0063,Small Business,South,Paid Ads,Cloud Pro,Software,3,157.94,0.0,473.82,0.0,473.82,186,287.82
+ORD-50667,2026-05-02,CUST-0023,Customer 0023,Small Business,East,Paid Ads,Cloud Pro,Software,2,157.94,0.03,315.88,9.48,306.4,124,182.4
+ORD-50668,2026-05-10,CUST-0084,Customer 0084,Small Business,North,Paid Ads,Support Premium,Services,3,136.74,0.03,410.22,12.31,397.91,162,235.91
+ORD-50669,2026-05-19,CUST-0172,Customer 0172,Small Business,East,Social Media,Training Package,Services,1,210.94,0.0,210.94,0.0,210.94,88,122.94
+ORD-50670,2026-05-25,CUST-0099,Customer 0099,Small Business,North,Referral,Data Backup,Services,2,94.34,0.15,188.68,28.3,160.38,76,84.38
+ORD-50671,2026-05-12,CUST-0131,Customer 0131,Consumer,West,Email,Security Plus,Software,1,189.74,0.03,189.74,5.69,184.05,75,109.05
+ORD-50672,2026-05-01,CUST-0064,Customer 0064,Enterprise,South,Social Media,Analytics Suite,Software,2,242.74,0.0,485.48,0.0,485.48,192,293.48
+ORD-50673,2026-05-21,CUST-0040,Customer 0040,Small Business,South,Organic Search,Implementation Pack,Services,2,316.94,0.0,633.88,0.0,633.88,280,353.88
+ORD-50674,2026-05-21,CUST-0048,Customer 0048,Consumer,South,Paid Ads,Analytics Suite,Software,2,242.74,0.05,485.48,24.27,461.21,192,269.21
+ORD-50675,2026-05-11,CUST-0073,Customer 0073,Small Business,South,Organic Search,Cloud Pro,Software,2,157.94,0.03,315.88,9.48,306.4,124,182.4
+ORD-50676,2026-05-06,CUST-0137,Customer 0137,Consumer,South,Email,CRM Essentials,Software,2,126.14,0.03,252.28,7.57,244.71,102,142.71
+ORD-50677,2026-05-16,CUST-0175,Customer 0175,Consumer,South,Organic Search,Cloud Pro,Software,1,157.94,0.08,157.94,12.64,145.3,62,83.3
+ORD-50678,2026-05-05,CUST-0153,Customer 0153,Small Business,East,Referral,Cloud Pro,Software,1,157.94,0.0,157.94,0.0,157.94,62,95.94
+ORD-50679,2026-05-16,CUST-0081,Customer 0081,Consumer,East,Organic Search,Analytics Suite,Software,2,242.74,0.03,485.48,14.56,470.92,192,278.92
+ORD-50680,2026-05-19,CUST-0137,Customer 0137,Consumer,South,Email,Support Premium,Services,2,136.74,0.15,273.48,41.02,232.46,108,124.46
+ORD-50681,2026-05-09,CUST-0174,Customer 0174,Enterprise,West,Referral,Data Backup,Services,3,94.34,0.15,283.02,42.45,240.57,114,126.57
+ORD-50682,2026-05-04,CUST-0013,Customer 0013,Consumer,North,Email,CRM Essentials,Software,2,126.14,0.05,252.28,12.61,239.67,102,137.67
+ORD-50683,2026-05-03,CUST-0143,Customer 0143,Consumer,North,Referral,Training Package,Services,3,210.94,0.03,632.82,18.98,613.84,264,349.84
+ORD-50684,2026-05-12,CUST-0164,Customer 0164,Consumer,South,Paid Ads,Training Package,Services,2,210.94,0.15,421.88,63.28,358.6,176,182.6
+ORD-50685,2026-05-01,CUST-0156,Customer 0156,Enterprise,West,Email,Training Package,Services,3,210.94,0.1,632.82,63.28,569.54,264,305.54
+ORD-50686,2026-05-17,CUST-0059,Customer 0059,Consumer,South,Social Media,Cloud Pro,Software,3,157.94,0.03,473.82,14.21,459.61,186,273.61
+ORD-50687,2026-05-11,CUST-0160,Customer 0160,Consumer,South,Email,Analytics Suite,Software,2,242.74,0.08,485.48,38.84,446.64,192,254.64
+ORD-50688,2026-05-09,CUST-0024,Customer 0024,Consumer,East,Paid Ads,Cloud Pro,Software,1,157.94,0.03,157.94,4.74,153.2,62,91.2
+ORD-50689,2026-05-26,CUST-0106,Customer 0106,Consumer,South,Referral,Implementation Pack,Services,2,316.94,0.08,633.88,50.71,583.17,280,303.17
+ORD-50690,2026-05-22,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Implementation Pack,Services,3,316.94,0.03,950.82,28.52,922.3,420,502.3
+ORD-50691,2026-05-16,CUST-0178,Customer 0178,Consumer,East,Organic Search,Training Package,Services,1,210.94,0.03,210.94,6.33,204.61,88,116.61
+ORD-50692,2026-05-05,CUST-0051,Customer 0051,Consumer,East,Referral,Data Backup,Services,1,94.34,0.0,94.34,0.0,94.34,38,56.34
+ORD-50693,2026-05-27,CUST-0119,Customer 0119,Enterprise,West,Referral,Implementation Pack,Services,2,316.94,0.0,633.88,0.0,633.88,280,353.88
+ORD-50694,2026-05-15,CUST-0043,Customer 0043,Small Business,West,Social Media,Training Package,Services,4,210.94,0.03,843.76,25.31,818.45,352,466.45
+ORD-50695,2026-05-23,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Training Package,Services,1,210.94,0.0,210.94,0.0,210.94,88,122.94
+ORD-50696,2026-05-09,CUST-0168,Customer 0168,Consumer,West,Paid Ads,Analytics Suite,Software,2,242.74,0.15,485.48,72.82,412.66,192,220.66
+ORD-50697,2026-05-06,CUST-0132,Customer 0132,Consumer,South,Paid Ads,Training Package,Services,2,210.94,0.1,421.88,42.19,379.69,176,203.69
+ORD-50698,2026-05-09,CUST-0070,Customer 0070,Consumer,East,Paid Ads,Analytics Suite,Software,1,242.74,0.05,242.74,12.14,230.6,96,134.6
+ORD-50699,2026-05-16,CUST-0063,Customer 0063,Small Business,South,Paid Ads,Cloud Pro,Software,1,157.94,0.15,157.94,23.69,134.25,62,72.25
+ORD-50700,2026-05-09,CUST-0015,Customer 0015,Consumer,West,Email,Training Package,Services,2,210.94,0.0,421.88,0.0,421.88,176,245.88
+ORD-50701,2026-05-06,CUST-0030,Customer 0030,Consumer,West,Email,Cloud Pro,Software,1,157.94,0.15,157.94,23.69,134.25,62,72.25
+ORD-50702,2026-05-06,CUST-0128,Customer 0128,Consumer,East,Social Media,Analytics Suite,Software,2,242.74,0.05,485.48,24.27,461.21,192,269.21
+ORD-50703,2026-05-20,CUST-0067,Customer 0067,Consumer,South,Referral,Security Plus,Software,2,189.74,0.0,379.48,0.0,379.48,150,229.48
+ORD-50704,2026-05-21,CUST-0133,Customer 0133,Consumer,South,Email,Training Package,Services,2,210.94,0.1,421.88,42.19,379.69,176,203.69
+ORD-50705,2026-05-21,CUST-0136,Customer 0136,Enterprise,East,Paid Ads,Training Package,Services,3,210.94,0.0,632.82,0.0,632.82,264,368.82
+ORD-50706,2026-05-02,CUST-0100,Customer 0100,Small Business,East,Paid Ads,Data Backup,Services,1,94.34,0.05,94.34,4.72,89.62,38,51.62
+ORD-50707,2026-05-09,CUST-0094,Customer 0094,Consumer,North,Referral,Support Premium,Services,2,136.74,0.03,273.48,8.2,265.28,108,157.28
+ORD-50708,2026-05-23,CUST-0006,Customer 0006,Consumer,West,Referral,Analytics Suite,Software,3,242.74,0.08,728.22,58.26,669.96,288,381.96
+ORD-50709,2026-05-25,CUST-0087,Customer 0087,Consumer,North,Email,Cloud Pro,Software,1,157.94,0.08,157.94,12.64,145.3,62,83.3
+ORD-50710,2026-05-04,CUST-0045,Customer 0045,Consumer,East,Organic Search,CRM Essentials,Software,1,126.14,0.0,126.14,0.0,126.14,51,75.14
+ORD-50711,2026-05-25,CUST-0053,Customer 0053,Consumer,East,Referral,Analytics Suite,Software,1,242.74,0.0,242.74,0.0,242.74,96,146.74
+ORD-50712,2026-05-16,CUST-0155,Customer 0155,Consumer,East,Referral,Cloud Pro,Software,2,157.94,0.03,315.88,9.48,306.4,124,182.4
+ORD-50713,2026-05-14,CUST-0068,Customer 0068,Consumer,West,Email,Support Premium,Services,2,136.74,0.08,273.48,21.88,251.6,108,143.6
+ORD-50714,2026-05-09,CUST-0170,Customer 0170,Small Business,North,Email,Training Package,Services,2,210.94,0.0,421.88,0.0,421.88,176,245.88
+ORD-50715,2026-05-07,CUST-0152,Customer 0152,Consumer,North,Organic Search,Implementation Pack,Services,1,316.94,0.15,316.94,47.54,269.4,140,129.4
+ORD-50716,2026-06-10,CUST-0066,Customer 0066,Consumer,West,Organic Search,CRM Essentials,Software,2,127.92,0.0,255.84,0.0,255.84,102,153.84
+ORD-50717,2026-06-15,CUST-0005,Customer 0005,Consumer,East,Organic Search,Implementation Pack,Services,1,321.43,0.08,321.43,25.71,295.72,140,155.72
+ORD-50718,2026-06-18,CUST-0173,Customer 0173,Consumer,West,Email,Security Plus,Software,1,192.42,0.0,192.42,0.0,192.42,75,117.42
+ORD-50719,2026-06-03,CUST-0076,Customer 0076,Consumer,South,Referral,Training Package,Services,1,213.92,0.0,213.92,0.0,213.92,88,125.92
+ORD-50720,2026-06-19,CUST-0038,Customer 0038,Consumer,North,Organic Search,Support Premium,Services,2,138.67,0.05,277.34,13.87,263.47,108,155.47
+ORD-50721,2026-06-03,CUST-0046,Customer 0046,Consumer,South,Social Media,Training Package,Services,1,213.92,0.0,213.92,0.0,213.92,88,125.92
+ORD-50722,2026-06-27,CUST-0022,Customer 0022,Enterprise,North,Email,Support Premium,Services,3,138.67,0.1,416.01,41.6,374.41,162,212.41
+ORD-50723,2026-06-04,CUST-0071,Customer 0071,Consumer,North,Paid Ads,Data Backup,Services,1,95.67,0.03,95.67,2.87,92.8,38,54.8
+ORD-50724,2026-06-24,CUST-0044,Customer 0044,Consumer,West,Paid Ads,CRM Essentials,Software,2,127.92,0.03,255.84,7.68,248.16,102,146.16
+ORD-50725,2026-06-08,CUST-0126,Customer 0126,Small Business,West,Organic Search,Cloud Pro,Software,2,160.17,0.05,320.34,16.02,304.32,124,180.32
+ORD-50726,2026-06-27,CUST-0100,Customer 0100,Small Business,East,Paid Ads,CRM Essentials,Software,1,127.92,0.03,127.92,3.84,124.08,51,73.08
+ORD-50727,2026-06-09,CUST-0026,Customer 0026,Consumer,East,Referral,Implementation Pack,Services,2,321.43,0.03,642.86,19.29,623.57,280,343.57
+ORD-50728,2026-06-01,CUST-0132,Customer 0132,Consumer,South,Paid Ads,Training Package,Services,1,213.92,0.08,213.92,17.11,196.81,88,108.81
+ORD-50729,2026-06-24,CUST-0167,Customer 0167,Consumer,East,Email,CRM Essentials,Software,2,127.92,0.15,255.84,38.38,217.46,102,115.46
+ORD-50730,2026-06-09,CUST-0166,Customer 0166,Small Business,West,Email,CRM Essentials,Software,1,127.92,0.1,127.92,12.79,115.13,51,64.13
+ORD-50731,2026-06-11,CUST-0081,Customer 0081,Consumer,East,Organic Search,Training Package,Services,1,213.92,0.0,213.92,0.0,213.92,88,125.92
+ORD-50732,2026-06-05,CUST-0067,Customer 0067,Consumer,South,Referral,Security Plus,Software,2,192.42,0.03,384.84,11.55,373.29,150,223.29
+ORD-50733,2026-06-01,CUST-0083,Customer 0083,Small Business,East,Social Media,Security Plus,Software,1,192.42,0.0,192.42,0.0,192.42,75,117.42
+ORD-50734,2026-06-05,CUST-0030,Customer 0030,Consumer,West,Email,Data Backup,Services,2,95.67,0.0,191.34,0.0,191.34,76,115.34
+ORD-50735,2026-06-03,CUST-0150,Customer 0150,Small Business,South,Referral,Data Backup,Services,1,95.67,0.1,95.67,9.57,86.1,38,48.1
+ORD-50736,2026-06-11,CUST-0076,Customer 0076,Consumer,South,Referral,Data Backup,Services,1,95.67,0.05,95.67,4.78,90.89,38,52.89
+ORD-50737,2026-06-05,CUST-0050,Customer 0050,Enterprise,West,Organic Search,Security Plus,Software,8,192.42,0.08,1539.36,123.15,1416.21,600,816.21
+ORD-50738,2026-06-16,CUST-0053,Customer 0053,Consumer,East,Referral,CRM Essentials,Software,1,127.92,0.0,127.92,0.0,127.92,51,76.92
+ORD-50739,2026-06-12,CUST-0122,Customer 0122,Consumer,West,Email,Data Backup,Services,2,95.67,0.08,191.34,15.31,176.03,76,100.03
+ORD-50740,2026-06-05,CUST-0013,Customer 0013,Consumer,North,Email,Analytics Suite,Software,1,246.17,0.08,246.17,19.69,226.48,96,130.48
+ORD-50741,2026-06-19,CUST-0036,Customer 0036,Small Business,West,Referral,CRM Essentials,Software,3,127.92,0.03,383.76,11.51,372.25,153,219.25
+ORD-50742,2026-06-07,CUST-0142,Customer 0142,Consumer,North,Organic Search,Cloud Pro,Software,1,160.17,0.1,160.17,16.02,144.15,62,82.15
+ORD-50743,2026-06-21,CUST-0005,Customer 0005,Consumer,East,Organic Search,Data Backup,Services,2,95.67,0.15,191.34,28.7,162.64,76,86.64
+ORD-50744,2026-06-25,CUST-0083,Customer 0083,Small Business,East,Social Media,CRM Essentials,Software,1,127.92,0.0,127.92,0.0,127.92,51,76.92
+ORD-50745,2026-06-18,CUST-0049,Customer 0049,Small Business,West,Organic Search,Implementation Pack,Services,2,321.43,0.15,642.86,96.43,546.43,280,266.43
+ORD-50746,2026-06-19,CUST-0088,Customer 0088,Enterprise,East,Email,Implementation Pack,Services,5,321.43,0.05,1607.15,80.36,1526.79,700,826.79
+ORD-50747,2026-06-07,CUST-0012,Customer 0012,Small Business,East,Referral,Data Backup,Services,2,95.67,0.0,191.34,0.0,191.34,76,115.34
+ORD-50748,2026-06-01,CUST-0138,Customer 0138,Consumer,North,Paid Ads,Security Plus,Software,2,192.42,0.15,384.84,57.73,327.11,150,177.11
+ORD-50749,2026-06-10,CUST-0131,Customer 0131,Consumer,West,Email,Data Backup,Services,1,95.67,0.05,95.67,4.78,90.89,38,52.89
+ORD-50750,2026-06-01,CUST-0080,Customer 0080,Consumer,East,Paid Ads,Analytics Suite,Software,2,246.17,0.0,492.34,0.0,492.34,192,300.34
+ORD-50751,2026-06-13,CUST-0114,Customer 0114,Enterprise,North,Social Media,Training Package,Services,3,213.92,0.0,641.76,0.0,641.76,264,377.76
+ORD-50752,2026-06-17,CUST-0066,Customer 0066,Consumer,West,Organic Search,Training Package,Services,1,213.92,0.08,213.92,17.11,196.81,88,108.81
+ORD-50753,2026-06-16,CUST-0146,Customer 0146,Consumer,East,Email,Training Package,Services,2,213.92,0.0,427.84,0.0,427.84,176,251.84
+ORD-50754,2026-06-03,CUST-0142,Customer 0142,Consumer,North,Organic Search,Data Backup,Services,1,95.67,0.03,95.67,2.87,92.8,38,54.8
+ORD-50755,2026-06-12,CUST-0158,Customer 0158,Consumer,East,Referral,Data Backup,Services,1,95.67,0.05,95.67,4.78,90.89,38,52.89
+ORD-50756,2026-06-23,CUST-0072,Customer 0072,Small Business,East,Organic Search,CRM Essentials,Software,2,127.92,0.0,255.84,0.0,255.84,102,153.84
+ORD-50757,2026-06-26,CUST-0127,Customer 0127,Small Business,North,Referral,Security Plus,Software,2,192.42,0.0,384.84,0.0,384.84,150,234.84
+ORD-50758,2026-06-19,CUST-0099,Customer 0099,Small Business,North,Referral,Analytics Suite,Software,3,246.17,0.03,738.51,22.16,716.35,288,428.35
+ORD-50759,2026-06-11,CUST-0031,Customer 0031,Small Business,North,Referral,Analytics Suite,Software,4,246.17,0.15,984.68,147.7,836.98,384,452.98
+ORD-50760,2026-06-08,CUST-0014,Customer 0014,Enterprise,West,Organic Search,Training Package,Services,1,213.92,0.0,213.92,0.0,213.92,88,125.92
+ORD-50761,2026-06-12,CUST-0055,Customer 0055,Enterprise,South,Social Media,Analytics Suite,Software,1,246.17,0.03,246.17,7.39,238.78,96,142.78
+ORD-50762,2026-06-19,CUST-0067,Customer 0067,Consumer,South,Referral,Data Backup,Services,2,95.67,0.1,191.34,19.13,172.21,76,96.21
+ORD-50763,2026-06-14,CUST-0154,Customer 0154,Small Business,South,Social Media,Support Premium,Services,1,138.67,0.0,138.67,0.0,138.67,54,84.67
+ORD-50764,2026-06-01,CUST-0075,Customer 0075,Consumer,South,Organic Search,Support Premium,Services,3,138.67,0.0,416.01,0.0,416.01,162,254.01
+ORD-50765,2026-06-07,CUST-0142,Customer 0142,Consumer,North,Organic Search,Training Package,Services,2,213.92,0.03,427.84,12.84,415.0,176,239.0
+ORD-50766,2026-06-11,CUST-0043,Customer 0043,Small Business,West,Social Media,Data Backup,Services,2,95.67,0.05,191.34,9.57,181.77,76,105.77
+ORD-50767,2026-06-01,CUST-0162,Customer 0162,Consumer,West,Referral,Security Plus,Software,1,192.42,0.03,192.42,5.77,186.65,75,111.65
+ORD-50768,2026-06-04,CUST-0003,Customer 0003,Consumer,West,Paid Ads,Training Package,Services,1,213.92,0.0,213.92,0.0,213.92,88,125.92
+ORD-50769,2026-06-27,CUST-0053,Customer 0053,Consumer,East,Referral,Analytics Suite,Software,1,246.17,0.0,246.17,0.0,246.17,96,150.17
+ORD-50770,2026-06-02,CUST-0062,Customer 0062,Small Business,North,Social Media,CRM Essentials,Software,2,127.92,0.15,255.84,38.38,217.46,102,115.46
+ORD-50771,2026-06-21,CUST-0019,Customer 0019,Consumer,South,Organic Search,Support Premium,Services,3,138.67,0.0,416.01,0.0,416.01,162,254.01
+ORD-50772,2026-06-07,CUST-0040,Customer 0040,Small Business,South,Organic Search,Training Package,Services,2,213.92,0.0,427.84,0.0,427.84,176,251.84
+ORD-50773,2026-06-24,CUST-0104,Customer 0104,Consumer,East,Paid Ads,Support Premium,Services,3,138.67,0.05,416.01,20.8,395.21,162,233.21
+ORD-50774,2026-06-24,CUST-0080,Customer 0080,Consumer,East,Paid Ads,Cloud Pro,Software,1,160.17,0.05,160.17,8.01,152.16,62,90.16
+ORD-50775,2026-06-01,CUST-0020,Customer 0020,Enterprise,North,Paid Ads,Security Plus,Software,5,192.42,0.0,962.1,0.0,962.1,375,587.1
+ORD-50776,2026-06-19,CUST-0128,Customer 0128,Consumer,East,Social Media,Support Premium,Services,3,138.67,0.15,416.01,62.4,353.61,162,191.61
+ORD-50777,2026-06-11,CUST-0068,Customer 0068,Consumer,West,Email,Analytics Suite,Software,2,246.17,0.03,492.34,14.77,477.57,192,285.57
+ORD-50778,2026-06-16,CUST-0128,Customer 0128,Consumer,East,Social Media,CRM Essentials,Software,1,127.92,0.03,127.92,3.84,124.08,51,73.08
+ORD-50779,2026-06-13,CUST-0101,Customer 0101,Enterprise,East,Social Media,Training Package,Services,3,213.92,0.05,641.76,32.09,609.67,264,345.67
+ORD-50780,2026-06-17,CUST-0060,Customer 0060,Consumer,North,Email,Data Backup,Services,3,95.67,0.03,287.01,8.61,278.4,114,164.4
